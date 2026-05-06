@@ -1,3 +1,4 @@
 /checkpoints
 /ckpts
 /wan_models
+*/__pycache__/
