@@ -1,0 +1,7 @@
+video_id,video_source,video_type,fps,inference_type,question,ground_truth_prior,depth_info,ground_truth_posterior
+sim_0000,simulation,S2MC,24,SD,What is the speed of the notebook at time 1.0s in m/s?,length of the notebook = 0.478 m,,0.0
+sim_0000,simulation,S2MC,24,SD,What is the acceleration of the notebook at time 1.0s in m/s^2?,length of the notebook = 0.478 m,,0.006
+sim_0000,simulation,V2MC,24,DS,What is the length of the notebook in meters?,speed of the notebook at 1.0s = 0.0 m/s,,0.478
+sim_0000,simulation,A2MC,24,DS,What is the length of the notebook in meters?,acceleration of the notebook at 1.0s = 0.006 m/s^2,,0.478
+sim_0000,simulation,V2MC,24,DD,What is the acceleration of the notebook at time 1.0s in m/s^2?,speed of the notebook at 1.0s = 0.0 m/s,,0.006
+sim_0000,simulation,A2MC,24,DD,What is the speed of the notebook at time 1.0s in m/s?,acceleration of the notebook at 1.0s = 0.006 m/s^2,,0.0

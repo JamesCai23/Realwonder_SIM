@@ -1,0 +1,501 @@
+case_name,object_name,image_prompt,motion_mode,motion_direction,force_direction,force_strength,gravity,initial_velocity,seed,sim_output_dir,vgen_prompt,eval_degradation,simulated_frames_num,estimated_real_size
+apple_tree_drop,apple,A complete apple tree stands in the center of a clean garden and one ripe apple hangs from a branch at eye level in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1001,0,The ripe apple detaches from the branch and falls straight down to the ground.,0.5,48,8cm
+orange_tree_drop,orange,A complete orange tree stands in a simple orchard scene and one orange hangs clearly on a low branch in realistic daylight.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1002,0,The orange drops directly downward from the branch.,0.5,48,8cm
+pear_tree_drop,pear,A complete pear tree in a quiet yard with one pear visible on a branch and a clean natural background in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1003,0,The pear falls vertically to the ground.,0.5,48,8cm
+mango_tree_drop,mango,A complete mango tree in a simple outdoor scene and one mango hanging near the center with soft sunlight and realistic detail.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1004,0,The mango detaches and falls straight down.,0.5,48,8cm
+coconut_tree_drop,coconut,A single coconut palm stands on a simple beach background and one coconut is visible under the leaves in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1005,0,The coconut drops vertically from the tree.,0.5,48,22cm
+book_table_drop,book,A thick hardcover book sits near the edge of a plain wooden table in a clean room with realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1006,0,The book slips off the edge and falls straight down.,0.5,48,25cm
+notebook_table_drop,notebook,A simple notebook rests at the edge of a study desk with a plain indoor background and realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1007,0,The notebook drops directly downward from the desk.,0.5,48,25cm
+mug_shelf_drop,mug,A ceramic mug is placed close to the edge of a kitchen shelf with a simple wall background in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1008,0,The mug tips off the shelf and falls down.,0.5,48,8cm
+bottle_shelf_drop,bottle,A transparent water bottle stands near the edge of a plain shelf in a simple room with realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1009,0,The bottle falls vertically from the shelf.,0.5,48,22cm
+toy_block_drop,toy_block,A single colorful toy block sits on the edge of a low table in a clean indoor scene with realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1010,0,The toy block drops straight down to the floor.,0.5,48,4cm
+basketball_drop,basketball,A single orange basketball is suspended above a smooth gym floor in a simple indoor court with realistic detail.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1011,0,The basketball falls straight down toward the floor.,0.5,48,22cm
+tennis_ball_drop,tennis_ball,A bright yellow tennis ball is held still above a hard court with a clean sports background in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1012,0,The tennis ball drops vertically to the court.,0.5,48,15cm
+baseball_drop,baseball,A white baseball hangs in mid air above a dirt field with a simple outdoor sports background and realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1013,0,The baseball falls directly downward.,0.5,48,15cm
+volleyball_drop,volleyball,A white volleyball is suspended above a plain indoor court floor in a clean realistic gym setting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1014,0,The volleyball drops straight down.,0.5,48,22cm
+coin_drop,coin,A shiny coin is held above a flat wooden tabletop with a plain background and clear realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1015,0,The coin falls straight down onto the tabletop.,0.5,48,8cm
+key_drop,key,A metal key is suspended above a simple stone floor in a clean indoor scene with realistic detail.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1016,0,The key drops vertically toward the floor.,0.5,48,8cm
+leaf_fall_slow,maple_leaf,A dry maple leaf floats above a quiet sidewalk with a simple autumn background and realistic natural light.,free_fall,0 0 -1,,,-2.46,0 0 0 0 0 0,1017,0,The dry leaf drifts gently downward.,0.5,72,10cm
+feather_fall_slow,feather,A single white feather is suspended in still air inside a plain room with soft realistic light.,free_fall,0 0 -1,,,-1.63,0 0 0 0 0 0,1018,0,The feather slowly descends straight down.,0.5,72,10cm
+flowerpot_drop,flowerpot,A small flowerpot sits at the edge of a balcony ledge against a simple building background in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1019,0,The flowerpot falls vertically from the ledge.,0.5,48,22cm
+soap_drop,soap,A bar of soap is held above a plain bathroom sink with clean tiles and realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1020,0,The soap drops straight down into the sink.,0.5,48,8cm
+box_slide_right_01,box,A medium cardboard box sits on a smooth studio floor with a plain white background and realistic light.,constant_velocity,1 0 0,,,0.0,0.26 0 0 0 0 0,1046,0,The cardboard box slides to the right.,0.5,72,15cm
+box_slide_right_02,box,A sealed shipping box is on a flat concrete floor in a simple warehouse scene with realistic style.,constant_velocity,1 0 0,,,0.0,0.22 0 0 0 0 0,1047,0,The shipping box moves steadily to the right.,0.5,72,15cm
+chair_slide_right_01,chair,A simple wooden chair stands on a smooth floor in a clean empty room with realistic lighting.,constant_velocity,1 0 0,,,0.0,0.39 0 0 0 0 0,1048,0,The wooden chair slides slowly to the right.,0.5,72,60cm
+stool_slide_right_01,stool,A round stool is on a polished floor with a minimal indoor background in realistic style.,constant_velocity,1 0 0,,,0.0,0.34 0 0 0 0 0,1049,0,The stool glides to the right.,0.5,72,60cm
+traffic_cone_slide_right,traffic_cone,A single orange traffic cone is on a flat road surface with a simple background and realistic daylight.,constant_velocity,1 0 0,,,0.0,0.44 0 0 0 0 0,1050,0,The traffic cone slides to the right.,0.5,72,15cm
+suitcase_slide_right,suitcase,A wheeled suitcase is on a smooth station floor in a plain bright hallway with realistic detail.,constant_velocity,1 0 0,,,0.0,0.45 0 0 0 0 0,1051,0,The suitcase rolls to the right.,0.5,72,60cm
+skateboard_slide_right,skateboard,A skateboard lies on smooth concrete in a clean skatepark scene with realistic style.,constant_velocity,1 0 0,,,0.0,0.34 0 0 0 0 0,1052,0,The skateboard rolls toward the right.,0.5,72,1.2m
+soccer_ball_roll_right,soccer_ball,A soccer ball is on short grass in a simple field scene under clear daylight.,constant_velocity,1 0 0,,,0.0,0.45 0 0 0 0 0,1053,0,The soccer ball rolls to the right.,0.5,72,22cm
+basketball_roll_right,basketball,A basketball is on a smooth indoor court floor with a plain gym background and realistic lighting.,constant_velocity,1 0 0,,,0.0,0.33 0 0 0 0 0,1054,0,The basketball rolls to the right.,0.5,72,22cm
+bowling_ball_roll_right,bowling_ball,A bowling ball is placed on a polished wooden lane in a simple alley scene.,constant_velocity,1 0 0,,,0.0,0.28 0 0 0 0 0,1055,0,The bowling ball rolls steadily to the right.,0.5,72,22cm
+toy_car_right,toy_car,A toy car is on a flat tabletop with a clean indoor background and realistic style.,constant_velocity,1 0 0,,,0.0,0.42 0 0 0 0 0,1056,0,The toy car moves to the right.,0.5,72,15cm
+remote_car_right,remote_car,A small remote control car is on a flat driveway in a simple outdoor scene with daylight.,constant_velocity,1 0 0,,,0.0,0.43 0 0 0 0 0,1057,0,The remote control car drives to the right.,0.5,72,15cm
+drone_right,drone,A compact quadcopter drone is in open air over an empty lot with a clear sky and realistic detail.,constant_velocity,1 0 0,,,0.0,0.25 0 0 0 0 0,1058,0,The drone flies laterally to the right.,0.5,72,40cm
+bird_right,bird,A small bird is in a clear sky scene with simple clouds and realistic style.,constant_velocity,1 0 0,,,0.0,0.39 0 0 0 0 0,1059,0,The bird flies toward the right.,0.5,72,15cm
+boat_right,boat,A small row boat is on calm lake water with a simple distant shore under realistic daylight.,constant_velocity,1 0 0,,,0.0,0.20 0 0 0 0 0,1060,0,The row boat drifts to the right.,0.5,72,4m
+kayak_right,kayak,A single kayak sits on still water in a minimal lake background and realistic style.,constant_velocity,1 0 0,,,0.0,0.22 0 0 0 0 0,1061,0,The kayak moves smoothly to the right.,0.5,72,4m
+puck_slide_right,puck,A black hockey puck lies on a flat ice rink with a plain indoor arena background.,constant_velocity,1 0 0,,,0.0,0.39 0 0 0 0 0,1062,0,The puck slides quickly to the right.,0.5,72,4cm
+bottle_slide_right,bottle,A plastic bottle lies on a smooth tabletop in a clean room with realistic light.,constant_velocity,1 0 0,,,0.0,0.29 0 0 0 0 0,1063,0,The bottle slides to the right.,0.5,72,22cm
+mug_slide_right,mug,A ceramic mug sits on a polished kitchen counter with a simple background.,constant_velocity,1 0 0,,,0.0,0.27 0 0 0 0 0,1064,0,The mug slides right across the counter.,0.5,72,8cm
+book_slide_right,book,A hardcover book is on a smooth desk surface in a plain study room with realistic style.,constant_velocity,1 0 0,,,0.0,0.31 0 0 0 0 0,1065,0,The book slides to the right.,0.5,72,25cm
+box_slide_left_01,box,A cardboard box rests on a flat concrete floor in a simple storage room with realistic lighting.,constant_velocity,-1 0 0,,,0.0,-0.23 0 0 0 0 0,1066,0,The box slides to the left.,0.5,72,15cm
+chair_slide_left_01,chair,A wooden chair stands on a smooth floor in an empty room with a simple realistic background.,constant_velocity,-1 0 0,,,0.0,-0.41 0 0 0 0 0,1067,0,The chair moves slowly to the left.,0.5,72,60cm
+traffic_cone_slide_left,traffic_cone,A single traffic cone sits on flat asphalt in a clean outdoor road scene.,constant_velocity,-1 0 0,,,0.0,-0.44 0 0 0 0 0,1068,0,The cone slides to the left.,0.5,72,15cm
+suitcase_slide_left,suitcase,A wheeled suitcase is on a smooth station floor with plain bright lighting in realistic style.,constant_velocity,-1 0 0,,,0.0,-0.38 0 0 0 0 0,1069,0,The suitcase rolls toward the left.,0.5,72,60cm
+skateboard_slide_left,skateboard,A skateboard is on a flat concrete surface in a minimal skatepark scene.,constant_velocity,-1 0 0,,,0.0,-0.32 0 0 0 0 0,1070,0,The skateboard rolls to the left.,0.5,72,1.2m
+soccer_ball_roll_left,soccer_ball,A soccer ball rests on short grass in a plain football field under clear daylight.,constant_velocity,-1 0 0,,,0.0,-0.33 0 0 0 0 0,1071,0,The soccer ball rolls to the left.,0.5,72,22cm
+basketball_roll_left,basketball,A basketball is on a smooth gym floor with a simple indoor sports background.,constant_velocity,-1 0 0,,,0.0,-0.39 0 0 0 0 0,1072,0,The basketball rolls left across the floor.,0.5,72,22cm
+bowling_ball_roll_left,bowling_ball,A bowling ball stands on a polished lane in a clean alley with realistic detail.,constant_velocity,-1 0 0,,,0.0,-0.45 0 0 0 0 0,1073,0,The bowling ball rolls to the left.,0.5,72,22cm
+toy_car_left,toy_car,A toy car is placed on a flat tabletop in a simple indoor setting with realistic lighting.,constant_velocity,-1 0 0,,,0.0,-0.36 0 0 0 0 0,1074,0,The toy car moves to the left.,0.5,72,15cm
+remote_car_left,remote_car,A remote control car is on an empty driveway with a plain suburban background.,constant_velocity,-1 0 0,,,0.0,-0.33 0 0 0 0 0,1075,0,The remote control car drives left.,0.5,72,15cm
+drone_left,drone,A white quadcopter drone hovers in open air above a clean lot with clear sky.,constant_velocity,-1 0 0,,,0.0,-0.39 0 0 0 0 0,1076,0,The drone flies laterally to the left.,0.5,72,40cm
+bird_left,bird,A single bird flies in a simple blue sky with light clouds in realistic style.,constant_velocity,-1 0 0,,,0.0,-0.33 0 0 0 0 0,1077,0,The bird flies toward the left.,0.5,72,15cm
+boat_left,boat,A small boat floats on calm water with a clean horizon in realistic daylight.,constant_velocity,-1 0 0,,,0.0,-0.26 0 0 0 0 0,1078,0,The boat drifts to the left.,0.5,72,4m
+kayak_left,kayak,A single kayak is on still lake water with a minimal natural background.,constant_velocity,-1 0 0,,,0.0,-0.34 0 0 0 0 0,1079,0,The kayak glides to the left.,0.5,72,4m
+puck_slide_left,puck,A hockey puck sits on a flat ice surface in a plain rink scene under bright light.,constant_velocity,-1 0 0,,,0.0,-0.21 0 0 0 0 0,1080,0,The puck slides quickly to the left.,0.5,72,4cm
+bottle_slide_left,bottle,A plastic bottle lies on a smooth tabletop in a clean room with realistic detail.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1081,0,The bottle slides to the left.,0.5,72,22cm
+mug_slide_left,mug,A ceramic mug is on a polished counter in a simple kitchen scene with realistic light.,constant_velocity,-1 0 0,,,0.0,-0.37 0 0 0 0 0,1082,0,The mug slides left across the counter.,0.5,72,8cm
+book_slide_left,book,A hardcover book rests on a smooth desk in a plain study room with realistic style.,constant_velocity,-1 0 0,,,0.0,-0.34 0 0 0 0 0,1083,0,The book slides to the left.,0.5,72,25cm
+vacuum_robot_left,vacuum_robot,A round robot vacuum is on a flat indoor floor in a clean living room.,constant_velocity,-1 0 0,,,0.0,-0.31 0 0 0 0 0,1084,0,The robot vacuum moves left steadily.,0.5,72,15cm
+shopping_cart_left,shopping_cart,An empty shopping cart is on smooth pavement in a simple parking lot scene.,constant_velocity,-1 0 0,,,0.0,-0.34 0 0 0 0 0,1085,0,The shopping cart rolls toward the left.,0.5,72,4.5m
+drone_rise_01,drone,A white drone hovers above an empty parking lot under a clear sky in realistic style.,constant_velocity,0 0 1,,,0.0,0 0 0.17 0 0 0,1086,0,The drone rises vertically upward.,0.5,72,40cm
+drone_rise_02,drone,A compact drone is centered above a flat rooftop with a simple city background and realistic daylight.,constant_velocity,0 0 1,,,0.0,0 0 0.19 0 0 0,1087,0,The drone ascends straight up.,0.5,72,40cm
+balloon_rise_01,helium_balloon,A red helium balloon floats above a clean grassy field with bright daylight and realistic detail.,constant_velocity,0 0 1,,,0.0,0 0 0.24 0 0 0,1088,0,The helium balloon rises gently upward.,0.5,72,15cm
+balloon_rise_02,helium_balloon,A blue helium balloon hovers in a simple park scene with clear sky and realistic style.,constant_velocity,0 0 1,,,0.0,0 0 0.21 0 0 0,1089,0,The blue balloon moves upward steadily.,0.5,72,15cm
+hot_air_balloon_rise,hot_air_balloon,A colorful hot air balloon is low above an open field at sunrise with a clean realistic background.,constant_velocity,0 0 1,,,0.0,0 0 0.24 0 0 0,1090,0,The hot air balloon ascends slowly.,0.5,72,15m
+bubble_rise_01,soap_bubble,A translucent soap bubble floats above a plain table in a bright room with realistic light.,constant_velocity,0 0 1,,,0.0,0 0 0.24 0 0 0,1091,0,The soap bubble drifts upward.,0.5,72,8cm
+bubble_rise_02,soap_bubble,A single soap bubble hovers near a window with a simple indoor background and realistic style.,constant_velocity,0 0 1,,,0.0,0 0 0.33 0 0 0,1092,0,The bubble rises gently toward the ceiling.,0.5,72,8cm
+kite_rise_01,kite,A simple diamond kite is in open sky over a flat field with soft clouds and realistic detail.,constant_velocity,0 0 1,,,0.0,0 0 0.21 0 0 0,1093,0,The kite climbs upward in the sky.,0.5,72,40cm
+helicopter_rise_01,helicopter,A small civilian helicopter hovers above a flat open ground with a clean sky in realistic style.,constant_velocity,0 0 1,,,0.0,0 0 0.28 0 0 0,1094,0,The helicopter rises vertically.,0.5,72,15m
+rocket_model_rise,rocket_model,A small toy rocket stands on a launch stand in a simple outdoor scene with realistic lighting.,constant_velocity,0 0 1,,,0.0,0 0 0.34 0 0 0,1095,0,The toy rocket moves upward steadily.,0.5,72,40cm
+paper_lantern_rise,paper_lantern,A warm glowing paper lantern floats in a clear evening sky with a simple background.,constant_velocity,0 0 1,,,0.0,0 0 0.28 0 0 0,1096,0,The paper lantern rises slowly upward.,0.5,72,10cm
+confetti_balloon_rise,party_balloon,A colorful party balloon is in a plain indoor hall with bright clean lighting and realistic style.,constant_velocity,0 0 1,,,0.0,0 0 0.18 0 0 0,1097,0,The party balloon rises toward the ceiling.,0.5,72,15cm
+soap_bubble_rise,soap_bubble,A transparent soap bubble floats in a quiet room with soft light and a simple background.,constant_velocity,0 0 1,,,0.0,0 0 0.34 0 0 0,1098,0,The soap bubble rises gently upward.,0.5,72,8cm
+blimp_rise,blimp,A small advertising blimp is in a clear sky above a flat city skyline in realistic style.,constant_velocity,0 0 1,,,0.0,0 0 0.20 0 0 0,1099,0,The blimp slowly ascends higher in the sky.,0.5,72,15m
+parachute_down_01,parachute,A skydiver with an open parachute is high above a simple landscape with realistic daylight.,constant_velocity,0 0 -1,,,0.0,0 0 -2.5 0 0 0,1100,0,The parachute descends steadily downward.,0.5,96,15cm
+parachute_down_02,parachute,A colorful parachute is open in clear sky above a plain field in realistic style.,constant_velocity,0 0 -1,,,0.0,0 0 -2.0 0 0 0,1101,0,The parachute moves down in a straight line.,0.5,96,15cm
+elevator_crate_down,crate,A wooden crate is suspended inside a simple cargo elevator shaft with realistic industrial lighting.,constant_velocity,0 0 -1,,,0.0,0 0 -1.5 0 0 0,1102,0,The crate lowers straight down.,0.5,96,60cm
+hanging_lamp_down,ceiling_lamp,A ceiling lamp hangs in a plain room with clean walls and realistic indoor light.,constant_velocity,0 0 -1,,,0.0,0 0 -0.8 0 0 0,1103,0,The hanging lamp is lowered downward.,0.5,96,15cm
+camera_crane_down,camera_rig,A camera rig hangs from a simple studio crane in a clean filming room with realistic detail.,constant_velocity,0 0 -1,,,0.0,0 0 -1.0 0 0 0,1104,0,The camera rig descends vertically.,0.5,96,15cm
+drone_descend_01,drone,A white drone hovers in open air over a simple parking lot under clear daylight.,constant_velocity,0 0 -1,,,0.0,0 0 -1.8 0 0 0,1105,0,The drone descends straight down.,0.5,96,40cm
+drone_descend_02,drone,A compact drone is above a flat rooftop with a simple city background in realistic style.,constant_velocity,0 0 -1,,,0.0,0 0 -1.4 0 0 0,1106,0,The drone lowers steadily.,0.5,96,40cm
+balloon_descend_01,helium_balloon,A slightly deflated helium balloon floats in a plain room with simple bright lighting.,constant_velocity,0 0 -1,,,0.0,0 0 -0.7 0 0 0,1107,0,The balloon slowly drifts downward.,0.5,96,15cm
+leaf_descend_constant,maple_leaf,A dry leaf is suspended in still air above a flat sidewalk with a simple autumn background.,constant_velocity,0 0 -1,,,0.0,0 0 -0.9 0 0 0,1108,0,The leaf moves downward gently.,0.5,96,10cm
+feather_descend_constant,feather,A white feather hangs in a quiet room with soft realistic lighting and plain background.,constant_velocity,0 0 -1,,,0.0,0 0 -0.5 0 0 0,1109,0,The feather descends slowly in a straight line.,0.5,96,10cm
+lantern_descend,paper_lantern,A paper lantern is suspended in a simple festival scene with clean realistic lighting.,constant_velocity,0 0 -1,,,0.0,0 0 -0.8 0 0 0,1110,0,The lantern lowers downward gently.,0.5,96,10cm
+watermelon_drop_01,watermelon,A ripe watermelon sits on the edge of a picnic table with a simple outdoor background in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1111,0,The watermelon falls straight down to the ground.,0.5,48,30cm
+grapes_drop_01,grapes,A bunch of fresh grapes hangs from a simple wooden rack in a bright fruit market with realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1112,0,The grapes falls straight down to the ground.,0.5,48,5cm
+lemon_drop_01,lemon,A single fresh lemon rests on a plain kitchen counter with clean tiles and realistic daylight.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1113,0,The lemon falls straight down to the ground.,0.5,48,6cm
+lime_drop_01,lime,A bright green lime sits near the edge of a fruit bowl on a simple table in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1114,0,The lime falls straight down to the ground.,0.5,48,5cm
+peach_drop_01,peach,A fuzzy peach hangs from a branch in a simple orchard with soft sunlight and realistic detail.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1115,0,The peach falls straight down to the ground.,0.5,48,8cm
+plum_drop_01,plum,A purple plum is visible on a branch in a simple fruit garden with clean daylight and realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1116,0,The plum falls straight down to the ground.,0.5,48,6cm
+apricot_drop_01,apricot,An orange apricot hangs from a thin branch in a simple garden scene with realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1117,0,The apricot falls straight down to the ground.,0.5,48,5cm
+cherry_drop_01,cherry,A single cherry is suspended above a plain white surface with simple realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1118,0,The cherry falls straight down to the ground.,0.5,48,2cm
+pineapple_drop_01,pineapple,A large pineapple sits near the edge of a wooden table with a plain background in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1119,0,The pineapple falls straight down to the ground.,0.5,48,20cm
+papaya_drop_01,papaya,A ripe papaya rests on a simple kitchen shelf with clean walls and realistic daylight.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1120,0,The papaya falls straight down to the ground.,0.5,48,15cm
+guava_drop_01,guava,A green guava hangs from a branch in a simple tropical garden with soft realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1121,0,The guava falls straight down to the ground.,0.5,48,8cm
+kiwi_drop_01,kiwi,A fresh kiwi fruit sits on a plain surface near a table edge with realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1122,0,The kiwi falls straight down to the ground.,0.5,48,5cm
+pomegranate_drop_01,pomegranate,A round pomegranate is positioned on a shelf near the edge with a simple background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1123,0,The pomegranate falls straight down to the ground.,0.5,48,10cm
+avocado_drop_01,avocado,An avocado rests on a kitchen counter close to the edge with simple realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1124,0,The avocado falls straight down to the ground.,0.5,48,8cm
+nut_drop_01,nut,A walnut sits on a table edge above a plain floor with clean realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1125,0,The nut falls straight down to the ground.,0.5,48,2cm
+dice_drop_01,dice,A single white dice is positioned at the edge of a gaming table with realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1126,0,The dice falls straight down to the ground.,0.5,48,2cm
+pen_drop_01,pen,A ballpoint pen lies near the edge of a wooden desk with clean background and realistic light.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1127,0,The pen falls straight down to the ground.,0.5,48,1.5cm
+pencil_drop_01,pencil,A sharp wooden pencil rests at the edge of a study table with a simple background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1128,0,The pencil falls straight down to the ground.,0.5,48,1.5cm
+eraser_drop_01,eraser,A pink eraser sits near the edge of a student desk with a plain indoor background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1129,0,The eraser falls straight down to the ground.,0.5,48,1cm
+ruler_drop_01,ruler,A wooden ruler is positioned at the edge of a drafting table with realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1130,0,The ruler falls straight down to the ground.,0.5,48,5cm
+scissors_drop_01,scissors,A pair of scissors lies near the edge of a crafting table with a simple background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1131,0,The scissors falls straight down to the ground.,0.5,48,3cm
+stapler_drop_01,stapler,A metal stapler sits on a desk edge in a clean office room with realistic detail.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1132,0,The stapler falls straight down to the ground.,0.5,48,4cm
+tape_drop_01,tape,A roll of adhesive tape is positioned near the edge of a storage shelf.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1133,0,The tape falls straight down to the ground.,0.5,48,3cm
+cup_drop_01,cup,A ceramic cup sits near the edge of a kitchen shelf with a simple clean background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1134,0,The cup falls straight down to the ground.,0.5,48,8cm
+plate_drop_01,plate,A ceramic plate rests near the edge of a cabinet shelf in a simple kitchen scene.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1135,0,The plate falls straight down to the ground.,0.5,48,10cm
+bowl_drop_01,bowl,A round soup bowl is positioned at the edge of a wooden table with realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1136,0,The bowl falls straight down to the ground.,0.5,48,8cm
+fork_drop_01,fork,A metal fork lies near the edge of a dining table with clean background and realistic light.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1137,0,The fork falls straight down to the ground.,0.5,48,2cm
+spoon_drop_01,spoon,A silver spoon is positioned at the edge of a kitchen counter with simple realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1138,0,The spoon falls straight down to the ground.,0.5,48,2cm
+knife_drop_01,knife,A dinner knife sits near the edge of a table with a plain background in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1139,0,The knife falls straight down to the ground.,0.5,48,2.5cm
+napkin_drop_01,napkin,A cloth napkin is folded near the edge of a dining table with simple background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1140,0,The napkin falls straight down to the ground.,0.5,48,3cm
+towel_drop_01,towel,A clean white towel is placed near the edge of a bathroom shelf with realistic detail.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1141,0,The towel falls straight down to the ground.,0.5,48,5cm
+rope_drop_01,rope,A coiled rope rests near the edge of a wooden shelf in a storage room.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1142,0,The rope falls straight down to the ground.,0.5,48,8cm
+bell_drop_01,bell,A small brass bell sits at the edge of a service desk with a simple background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1143,0,The bell falls straight down to the ground.,0.5,48,4cm
+hammer_drop_01,hammer,A carpenter hammer is positioned near the edge of a tool shelf with realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1144,0,The hammer falls straight down to the ground.,0.5,48,6cm
+wrench_drop_01,wrench,A metal wrench lies near the edge of a workshop bench with clean background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1145,0,The wrench falls straight down to the ground.,0.5,48,5cm
+screwdriver_drop_01,screwdriver,A screwdriver is placed near the edge of a toolbox in a simple workshop scene.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1146,0,The screwdriver falls straight down to the ground.,0.5,48,4cm
+nail_drop_01,nail,A large iron nail sits at the edge of a builder supply shelf with realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1147,0,The nail falls straight down to the ground.,0.5,48,2cm
+battery_drop_01,battery,A AA battery is positioned at the edge of a storage shelf with simple background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1148,0,The battery falls straight down to the ground.,0.5,48,1.5cm
+bulb_drop_01,bulb,An incandescent light bulb sits near the edge of a storage container in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1149,0,The bulb falls straight down to the ground.,0.5,48,3cm
+candle_drop_01,candle,A white scented candle is placed near the edge of a decorative shelf.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1150,0,The candle falls straight down to the ground.,0.5,48,6cm
+clipboard_drop_01,clipboard,A wooden clipboard is positioned at the edge of an office desk with realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1151,0,The clipboard falls straight down to the ground.,0.5,48,5cm
+card_drop_01,card,A playing card lies near the edge of a table in a simple indoor scene.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1152,0,The card falls straight down to the ground.,0.5,48,1cm
+photo_drop_01,photo,A framed photograph is positioned near the edge of a shelf with a clean background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1153,0,The photo falls straight down to the ground.,0.5,48,3cm
+glass_drop_01,glass,A drinking glass sits at the edge of a kitchen counter with simple realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1154,0,The glass falls straight down to the ground.,0.5,48,6cm
+jar_drop_01,jar,A glass storage jar rests near the edge of a pantry shelf in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1155,0,The jar falls straight down to the ground.,0.5,48,8cm
+can_drop_01,can,A tin can is positioned at the edge of a storage shelf with simple background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1156,0,The can falls straight down to the ground.,0.5,48,4cm
+brick_drop_01,brick,A clay brick sits near the edge of a construction site platform with realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1157,0,The brick falls straight down to the ground.,0.5,48,10cm
+stone_drop_01,stone,A rounded stone is positioned at the edge of a surface with a clean background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1158,0,The stone falls straight down to the ground.,0.5,48,8cm
+rock_drop_01,rock,A large rock sits near the edge of a garden platform in outdoor realistic lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1159,0,The rock falls straight down to the ground.,0.5,48,15cm
+weight_drop_01,weight,A dumbbell weight plate is positioned at the edge of a gym platform.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1160,0,The weight falls straight down to the ground.,0.5,48,8cm
+tile_drop_01,tile,A ceramic floor tile is placed near the edge of a construction surface.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1161,0,The tile falls straight down to the ground.,0.5,48,5cm
+block_drop_01,block,A concrete building block sits near the edge of a construction area.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1162,0,The block falls straight down to the ground.,0.5,48,10cm
+cart_slide_right_01,cart,A shopping cart filled with groceries rolls on a supermarket floor.,constant_velocity,1 0 0,,,0.0,0.35 0 0 0 0 0,1163,0,The cart slides to the right.,0.5,72,1.2m
+wagon_slide_right_02,wagon,A wooden wagon sits on a dirt road in a simple rural scene.,constant_velocity,1 0 0,,,0.0,0.32 0 0 0 0 0,1164,0,The wagon slides to the right.,0.5,72,1.5m
+trolley_slide_right_03,trolley,A hotel trolley is on a smooth hallway floor in a clean modern building.,constant_velocity,1 0 0,,,0.0,0.28 0 0 0 0 0,1165,0,The trolley slides to the right.,0.5,72,1m
+dolly_slide_right_04,dolly,A moving dolly rests on a concrete warehouse floor.,constant_velocity,1 0 0,,,0.0,0.4 0 0 0 0 0,1166,0,The dolly slides to the right.,0.5,72,1.2m
+truck_slide_right_05,truck,A toy truck is on a flat tabletop in a simple indoor setting.,constant_velocity,1 0 0,,,0.0,0.38 0 0 0 0 0,1167,0,The truck slides to the right.,0.5,72,15cm
+bus_slide_right_06,bus,A toy bus is on a smooth surface in a child play area.,constant_velocity,1 0 0,,,0.0,0.35 0 0 0 0 0,1168,0,The bus slides to the right.,0.5,72,15cm
+van_slide_right_07,van,A delivery van model sits on a flat driveway surface.,constant_velocity,1 0 0,,,0.0,0.33 0 0 0 0 0,1169,0,The van slides to the right.,0.5,72,20cm
+train_slide_right_08,train,A toy train sits on model tracks in a simple display scene.,constant_velocity,1 0 0,,,0.0,0.3 0 0 0 0 0,1170,0,The train slides to the right.,0.5,72,20cm
+motorcycle_slide_right_09,motorcycle,A motorcycle sits on a smooth road surface in a simple outdoor scene.,constant_velocity,1 0 0,,,0.0,0.42 0 0 0 0 0,1171,0,The motorcycle slides to the right.,0.5,72,1m
+scooter_slide_right_10,scooter,An electric scooter rests on a flat sidewalk in a modern urban setting.,constant_velocity,1 0 0,,,0.0,0.31 0 0 0 0 0,1172,0,The scooter slides to the right.,0.5,72,1.2m
+bicycle_slide_right_11,bicycle,A bicycle is placed on a smooth paved surface in a simple outdoor scene.,constant_velocity,1 0 0,,,0.0,0.36 0 0 0 0 0,1173,0,The bicycle slides to the right.,0.5,72,1.8m
+roller_skates_slide_right_13,roller_skates,A pair of roller skates sit on a smooth hardwood floor.,constant_velocity,1 0 0,,,0.0,0.25 0 0 0 0 0,1174,0,The roller_skates slides to the right.,0.5,72,30cm
+sled_slide_right_14,sled,A wooden sled is on a snowy surface in a simple winter scene.,constant_velocity,1 0 0,,,0.0,0.38 0 0 0 0 0,1175,0,The sled slides to the right.,0.5,72,1.5m
+canoe_slide_right_15,canoe,A canoe floats on calm river water in a scenic outdoor setting.,constant_velocity,1 0 0,,,0.0,0.18 0 0 0 0 0,1176,0,The canoe slides to the right.,0.5,72,4m
+sailboat_slide_right_16,sailboat,A sailboat is on calm water with a simple horizon background.,constant_velocity,1 0 0,,,0.0,0.22 0 0 0 0 0,1177,0,The sailboat slides to the right.,0.5,72,2m
+yacht_slide_right_17,yacht,A luxury yacht floats on smooth ocean water in a realistic scene.,constant_velocity,1 0 0,,,0.0,0.2 0 0 0 0 0,1178,0,The yacht slides to the right.,0.5,72,5m
+speedboat_slide_right_18,speedboat,A motorboat sits on calm water in a harbor with realistic detail.,constant_velocity,1 0 0,,,0.0,0.32 0 0 0 0 0,1179,0,The speedboat slides to the right.,0.5,72,6m
+raft_slide_right_19,raft,A wooden raft floats on water in a simple outdoor scene.,constant_velocity,1 0 0,,,0.0,0.15 0 0 0 0 0,1180,0,The raft slides to the right.,0.5,72,3m
+surfboard_slide_right_20,surfboard,A surfboard lies on sandy beach with ocean water visible.,constant_velocity,1 0 0,,,0.0,0.28 0 0 0 0 0,1181,0,The surfboard slides to the right.,0.5,72,1.8m
+windsurfing_board_slide_right_21,windsurfing_board,A windsurfing board is on water with a sail attached in a coastal scene.,constant_velocity,1 0 0,,,0.0,0.35 0 0 0 0 0,1182,0,The windsurfing_board slides to the right.,0.5,72,2m
+airship_slide_right_24,airship,A rigid airship floats in open sky above a simple landscape.,constant_velocity,1 0 0,,,0.0,0.25 0 0 0 0 0,1183,0,The airship slides to the right.,0.5,72,10m
+glider_slide_right_26,glider,A motorless glider plane floats in clear sky.,constant_velocity,1 0 0,,,0.0,0.3 0 0 0 0 0,1184,0,The glider slides to the right.,0.5,72,8m
+airplane_slide_right_28,airplane,A model airplane sits on a tabletop surface.,constant_velocity,1 0 0,,,0.0,0.4 0 0 0 0 0,1185,0,The airplane slides to the right.,0.5,72,30cm
+frisbee_slide_right_30,frisbee,A plastic frisbee sits on a grass field surface.,constant_velocity,1 0 0,,,0.0,0.28 0 0 0 0 0,1186,0,The frisbee slides to the right.,0.5,72,25cm
+cart_slide_left_01,cart,A shopping cart filled with groceries rolls on a supermarket floor.,constant_velocity,-1 0 0,,,0.0,-0.35 0 0 0 0 0,1187,0,The cart slides to the left.,0.5,72,1.2m
+wagon_slide_left_02,wagon,A wooden wagon sits on a dirt road in a simple rural scene.,constant_velocity,-1 0 0,,,0.0,-0.32 0 0 0 0 0,1188,0,The wagon slides to the left.,0.5,72,1.5m
+trolley_slide_left_03,trolley,A hotel trolley is on a smooth hallway floor in a clean modern building.,constant_velocity,-1 0 0,,,0.0,-0.28 0 0 0 0 0,1189,0,The trolley slides to the left.,0.5,72,1m
+dolly_slide_left_04,dolly,A moving dolly rests on a concrete warehouse floor.,constant_velocity,-1 0 0,,,0.0,-0.4 0 0 0 0 0,1190,0,The dolly slides to the left.,0.5,72,1.2m
+truck_slide_left_05,truck,A toy truck is on a flat tabletop in a simple indoor setting.,constant_velocity,-1 0 0,,,0.0,-0.38 0 0 0 0 0,1191,0,The truck slides to the left.,0.5,72,15cm
+bus_slide_left_06,bus,A toy bus is on a smooth surface in a child play area.,constant_velocity,-1 0 0,,,0.0,-0.35 0 0 0 0 0,1192,0,The bus slides to the left.,0.5,72,15cm
+van_slide_left_07,van,A delivery van model sits on a flat driveway surface.,constant_velocity,-1 0 0,,,0.0,-0.33 0 0 0 0 0,1193,0,The van slides to the left.,0.5,72,20cm
+train_slide_left_08,train,A toy train sits on model tracks in a simple display scene.,constant_velocity,-1 0 0,,,0.0,-0.3 0 0 0 0 0,1194,0,The train slides to the left.,0.5,72,20cm
+motorcycle_slide_left_09,motorcycle,A motorcycle sits on a smooth road surface in a simple outdoor scene.,constant_velocity,-1 0 0,,,0.0,-0.42 0 0 0 0 0,1195,0,The motorcycle slides to the left.,0.5,72,1m
+scooter_slide_left_10,scooter,An electric scooter rests on a flat sidewalk in a modern urban setting.,constant_velocity,-1 0 0,,,0.0,-0.31 0 0 0 0 0,1196,0,The scooter slides to the left.,0.5,72,1.2m
+bicycle_slide_left_11,bicycle,A bicycle is placed on a smooth paved surface in a simple outdoor scene.,constant_velocity,-1 0 0,,,0.0,-0.36 0 0 0 0 0,1197,0,The bicycle slides to the left.,0.5,72,1.8m
+skateboard_slide_left_12,skateboard,A skateboard lies on concrete in a skatepark with realistic style.,constant_velocity,-1 0 0,,,0.0,-0.34 0 0 0 0 0,1198,0,The skateboard slides to the left.,0.5,72,1.2m
+roller_skates_slide_left_13,roller_skates,A pair of roller skates sit on a smooth hardwood floor.,constant_velocity,-1 0 0,,,0.0,-0.25 0 0 0 0 0,1199,0,The roller_skates slides to the left.,0.5,72,30cm
+sled_slide_left_14,sled,A wooden sled is on a snowy surface in a simple winter scene.,constant_velocity,-1 0 0,,,0.0,-0.38 0 0 0 0 0,1200,0,The sled slides to the left.,0.5,72,1.5m
+canoe_slide_left_15,canoe,A canoe floats on calm river water in a scenic outdoor setting.,constant_velocity,-1 0 0,,,0.0,-0.18 0 0 0 0 0,1201,0,The canoe slides to the left.,0.5,72,4m
+sailboat_slide_left_16,sailboat,A sailboat is on calm water with a simple horizon background.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1202,0,The sailboat slides to the left.,0.5,72,2m
+yacht_slide_left_17,yacht,A luxury yacht floats on smooth ocean water in a realistic scene.,constant_velocity,-1 0 0,,,0.0,-0.2 0 0 0 0 0,1203,0,The yacht slides to the left.,0.5,72,5m
+speedboat_slide_left_18,speedboat,A motorboat sits on calm water in a harbor with realistic detail.,constant_velocity,-1 0 0,,,0.0,-0.32 0 0 0 0 0,1204,0,The speedboat slides to the left.,0.5,72,6m
+raft_slide_left_19,raft,A wooden raft floats on water in a simple outdoor scene.,constant_velocity,-1 0 0,,,0.0,-0.15 0 0 0 0 0,1205,0,The raft slides to the left.,0.5,72,3m
+surfboard_slide_left_20,surfboard,A surfboard lies on sandy beach with ocean water visible.,constant_velocity,-1 0 0,,,0.0,-0.28 0 0 0 0 0,1206,0,The surfboard slides to the left.,0.5,72,1.8m
+windsurfing_board_slide_left_21,windsurfing_board,A windsurfing board is on water with a sail attached in a coastal scene.,constant_velocity,-1 0 0,,,0.0,-0.35 0 0 0 0 0,1207,0,The windsurfing_board slides to the left.,0.5,72,2m
+kayak_slide_left_22,kayak,A kayak sits on still water with a minimal natural background.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1208,0,The kayak slides to the left.,0.5,72,4m
+canoe_slide_left_23,canoe,A canoe floats on calm lake water in a scenic setting.,constant_velocity,-1 0 0,,,0.0,-0.2 0 0 0 0 0,1209,0,The canoe slides to the left.,0.5,72,4m
+airship_slide_left_24,airship,A rigid airship floats in open sky above a simple landscape.,constant_velocity,-1 0 0,,,0.0,-0.25 0 0 0 0 0,1210,0,The airship slides to the left.,0.5,72,10m
+hot_air_balloon_slide_left_25,hot_air_balloon,A colorful hot air balloon floats in sky at sunrise.,constant_velocity,-1 0 0,,,0.0,-0.24 0 0 0 0 0,1211,0,The hot_air_balloon slides to the left.,0.5,72,15m
+glider_slide_left_26,glider,A motorless glider plane floats in clear sky.,constant_velocity,-1 0 0,,,0.0,-0.3 0 0 0 0 0,1212,0,The glider slides to the left.,0.5,72,8m
+helicopter_slide_left_27,helicopter,A small helicopter hovers above a flat open ground.,constant_velocity,-1 0 0,,,0.0,-0.35 0 0 0 0 0,1213,0,The helicopter slides to the left.,0.5,72,15m
+airplane_slide_left_28,airplane,A model airplane sits on a tabletop surface.,constant_velocity,-1 0 0,,,0.0,-0.4 0 0 0 0 0,1214,0,The airplane slides to the left.,0.5,72,30cm
+kite_slide_left_29,kite,A diamond kite is in open sky with a simple background.,constant_velocity,-1 0 0,,,0.0,-0.21 0 0 0 0 0,1215,0,The kite slides to the left.,0.5,72,40cm
+frisbee_slide_left_30,frisbee,A plastic frisbee sits on a grass field surface.,constant_velocity,-1 0 0,,,0.0,-0.28 0 0 0 0 0,1216,0,The frisbee slides to the left.,0.5,72,25cm
+cloud_rise_03,cloud,A cloud formation drifts in open sky.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1217,0,The cloud rises upward.,0.5,72,50m
+smoke_rise_04,smoke,Smoke rises from a candle in a quiet room.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1218,0,The smoke rises upward.,0.5,72,5cm
+steam_rise_05,steam,Steam rises from a cup of hot tea on a table.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1219,0,The steam rises upward.,0.5,72,5cm
+leaf_rise_07,leaf,A dry leaf floats upward in air.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1220,0,The leaf rises upward.,0.5,72,10cm
+petal_rise_08,petal,A flower petal is suspended in air.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1221,0,The petal rises upward.,0.5,72,2cm
+dust_particle_rise_09,dust_particle,Dust particles float in a beam of light.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1222,0,The dust_particle rises upward.,0.5,72,1mm
+bubble_rise_10,bubble,A soap bubble rises through air.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1223,0,The bubble rises upward.,0.5,72,8cm
+helium_bag_rise_11,helium_bag,A small helium-filled bag rises in air.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1224,0,The helium_bag rises upward.,0.5,72,15cm
+magic_card_rise_12,magic_card,A playing card levitates upward.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1225,0,The magic_card rises upward.,0.5,72,5cm
+glowing_orb_rise_13,glowing_orb,A glowing sphere floats upward.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1226,0,The glowing_orb rises upward.,0.5,72,10cm
+pom_pom_rise_14,pom_pom,A colorful pom pom rises in air.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1227,0,The pom_pom rises upward.,0.5,72,8cm
+foam_ball_rise_15,foam_ball,A foam ball floats upward.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1228,0,The foam_ball rises upward.,0.5,72,5cm
+ping_pong_ball_rise_16,ping_pong_ball,A ping pong ball rises in air.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1229,0,The ping_pong_ball rises upward.,0.5,72,4cm
+paper_plane_rise_17,paper_plane,A paper airplane glides upward.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1230,0,The paper_plane rises upward.,0.5,72,10cm
+flag_rise_19,flag,A flag waves and rises on a pole.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1231,0,The flag rises upward.,0.5,72,20cm
+lantern_rise_20,lantern,A paper lantern rises into the night sky.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1232,0,The lantern rises upward.,0.5,72,15cm
+confetti_rise_21,confetti,Confetti pieces rise in celebration.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1233,0,The confetti rises upward.,0.5,72,3cm
+water_splash_rise_22,water_splash,Water droplets splash upward.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1234,0,The water_splash rises upward.,0.5,72,2cm
+firefly_rise_23,firefly,A firefly glows and rises in the air.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1235,0,The firefly rises upward.,0.5,72,1cm
+spark_rise_24,spark,Sparks rise from a campfire.,constant_velocity,0 0 1,,,0.0,0 0 0.3 0 0 0,1236,0,The spark rises upward.,0.5,72,2cm
+meteorite_descend_02,meteorite,A meteorite descends from the sky.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1237,0,The meteorite descends downward.,0.5,72,20cm
+snowflake_descend_03,snowflake,A snowflake drifts downward.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1238,0,The snowflake descends downward.,0.5,72,1cm
+raindrop_descend_04,raindrop,A raindrop falls downward.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1239,0,The raindrop descends downward.,0.5,72,1cm
+hail_descend_05,hail,Hailstones descend from clouds.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1240,0,The hail descends downward.,0.5,72,2cm
+ash_descend_06,ash,Ash particles drift downward.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1241,0,The ash descends downward.,0.5,72,1cm
+pollen_descend_07,pollen,Pollen particles float downward.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1242,0,The pollen descends downward.,0.5,72,1mm
+sand_descend_08,sand,Sand particles descend downward.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1243,0,The sand descends downward.,0.5,72,1cm
+water_curtain_descend_09,water_curtain,Water falls like a curtain.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1244,0,The water_curtain descends downward.,0.5,72,5cm
+fountain_descend_10,fountain,Water falls from a fountain.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1245,0,The fountain descends downward.,0.5,72,10cm
+rain_descend_11,rain,Rain drops fall downward.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1246,0,The rain descends downward.,0.5,72,1cm
+waterfall_descend_12,waterfall,Water cascades down a cliff.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1247,0,The waterfall descends downward.,0.5,72,50cm
+escalator_descend_13,escalator,A moving escalator descends.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1248,0,The escalator descends downward.,0.5,72,2m
+elevator_descend_14,elevator,An elevator descends downward.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1249,0,The elevator descends downward.,0.5,72,2m
+rope_ladder_descend_15,rope_ladder,A rope ladder hangs downward.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1250,0,The rope_ladder descends downward.,0.5,72,1.5m
+chain_descend_16,chain,A chain hangs downward.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1251,0,The chain descends downward.,0.5,72,50cm
+curtain_fall_descend_17,curtain_fall,A curtain falls downward.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1252,0,The curtain_fall descends downward.,0.5,72,2m
+avalanche_descend_18,avalanche,Snow avalanche descends a mountainside.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1253,0,The avalanche descends downward.,0.5,72,50m
+rockslide_descend_19,rockslide,Rocks cascade down a slope.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1254,0,The rockslide descends downward.,0.5,72,10m
+sinkhole_descend_20,sinkhole,Ground collapses and descends.,constant_velocity,0 0 -1,,,0.0,0 0 -0.3 0 0 0,1255,0,The sinkhole descends downward.,0.5,72,2m
+acorn_drop_01,acorn,An acorn sits on a tree branch in a simple forest scene.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1256,0,The acorn falls straight down.,0.5,48,1.5cm
+pinecone_drop_01,pinecone,A pinecone hangs from a branch in an evergreen tree.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1257,0,The pinecone falls straight down.,0.5,48,4cm
+chestnut_drop_01,chestnut,A chestnut is visible on a tree branch with realistic autumn lighting.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1258,0,The chestnut falls straight down.,0.5,48,3cm
+hazelnut_drop_01,hazelnut,A hazelnut rests on a branch in a garden scene.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1259,0,The hazelnut falls straight down.,0.5,48,2cm
+walnut_drop_01,walnut,A walnut sits on a branch above a plain surface.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1260,0,The walnut falls straight down.,0.5,48,2cm
+almond_drop_01,almond,An almond rests on a simple table surface.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1261,0,The almond falls straight down.,0.5,48,1.5cm
+peanut_drop_01,peanut,A peanut in shell sits at a table edge.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1262,0,The peanut falls straight down.,0.5,48,2cm
+cashew_drop_01,cashew,A cashew nut is positioned near a surface edge.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1263,0,The cashew falls straight down.,0.5,48,2cm
+pistachio_drop_01,pistachio,A pistachio nut sits on a table near an edge.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1264,0,The pistachio falls straight down.,0.5,48,1cm
+pine_nut_drop_01,pine_nut,A pine nut rests on a simple surface.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1265,0,The pine_nut falls straight down.,0.5,48,1cm
+sunflower_seed_drop_01,sunflower_seed,A sunflower seed sits on a table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1266,0,The sunflower_seed falls straight down.,0.5,48,1cm
+pumpkin_seed_drop_01,pumpkin_seed,A pumpkin seed is positioned on a surface.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1267,0,The pumpkin_seed falls straight down.,0.5,48,1cm
+sesame_seed_drop_01,sesame_seed,Sesame seeds rest on a simple surface.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1268,0,The sesame_seed falls straight down.,0.5,48,0.5cm
+flaxseed_drop_01,flaxseed,Flaxseeds are on a spoon near a table edge.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1269,0,The flaxseed falls straight down.,0.5,48,0.5cm
+grape_cluster_drop_01,grape_cluster,A cluster of grapes hangs from a vine.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1270,0,The grape_cluster falls straight down.,0.5,48,8cm
+persimmon_drop_01,persimmon,A ripe persimmon hangs from a tree branch.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1271,0,The persimmon falls straight down.,0.5,48,8cm
+fig_drop_01,fig,A fig is visible on a branch in a simple tree.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1272,0,The fig falls straight down.,0.5,48,6cm
+date_drop_01,date,A dried date sits on a surface.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1273,0,The date falls straight down.,0.5,48,2cm
+cranberry_drop_01,cranberry,A fresh cranberry sits on a table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1274,0,The cranberry falls straight down.,0.5,48,1cm
+blackberry_drop_01,blackberry,A blackberry rests on a simple surface.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1275,0,The blackberry falls straight down.,0.5,48,1cm
+mulberry_drop_01,mulberry,A mulberry is positioned on a surface edge.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1276,0,The mulberry falls straight down.,0.5,48,1cm
+elderberry_drop_01,elderberry,An elderberry sits on a table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1277,0,The elderberry falls straight down.,0.5,48,0.5cm
+currant_drop_01,currant,A currant is positioned on a surface.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1278,0,The currant falls straight down.,0.5,48,0.5cm
+gooseberry_drop_01,gooseberry,A gooseberry rests on a simple surface.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1279,0,The gooseberry falls straight down.,0.5,48,1.5cm
+tangerine_drop_01,tangerine,A tangerine sits near the edge of a table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1280,0,The tangerine falls straight down.,0.5,48,8cm
+mandarin_drop_01,mandarin,A mandarin orange is positioned near a table edge.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1281,0,The mandarin falls straight down.,0.5,48,7cm
+clementine_drop_01,clementine,A clementine rests near the edge of a counter.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1282,0,The clementine falls straight down.,0.5,48,6cm
+satsuma_drop_01,satsuma,A satsuma orange sits on a table edge.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1283,0,The satsuma falls straight down.,0.5,48,6cm
+pomelo_drop_01,pomelo,A pomelo is positioned near a surface edge.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1284,0,The pomelo falls straight down.,0.5,48,15cm
+tangelo_drop_01,tangelo,A tangelo rests near a table edge.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1285,0,The tangelo falls straight down.,0.5,48,8cm
+log_slide_right_01,log,A wooden log lies on a forest floor.,constant_velocity,1 0 0,,,0.0,0.15 0 0 0 0 0,1286,0,The log slides to the right.,0.5,72,2m
+plank_slide_right_01,plank,A wooden plank is on a smooth workshop surface.,constant_velocity,1 0 0,,,0.0,0.28 0 0 0 0 0,1287,0,The plank slides to the right.,0.5,72,1.5m
+board_slide_right_01,board,A wooden board sits on a flat floor.,constant_velocity,1 0 0,,,0.0,0.32 0 0 0 0 0,1288,0,The board slides to the right.,0.5,72,1m
+shelf_unit_slide_right_01,shelf_unit,A shelf unit is on a smooth floor in a room.,constant_velocity,1 0 0,,,0.0,0.2 0 0 0 0 0,1289,0,The shelf_unit slides to the right.,0.5,72,1m
+ladder_slide_right_01,ladder,A wooden ladder rests on a floor.,constant_velocity,1 0 0,,,0.0,0.25 0 0 0 0 0,1290,0,The ladder slides to the right.,0.5,72,2m
+stepladder_slide_right_01,stepladder,A stepladder sits on a flat floor.,constant_velocity,1 0 0,,,0.0,0.22 0 0 0 0 0,1291,0,The stepladder slides to the right.,0.5,72,1m
+bench_slide_right_01,bench,A wooden bench is on a patio floor.,constant_velocity,1 0 0,,,0.0,0.18 0 0 0 0 0,1292,0,The bench slides to the right.,0.5,72,1.5m
+piano_slide_right_01,piano,A grand piano sits on a concert hall floor.,constant_velocity,1 0 0,,,0.0,0.1 0 0 0 0 0,1293,0,The piano slides to the right.,0.5,72,2m
+desk_slide_right_01,desk,A wooden desk slides across a floor.,constant_velocity,1 0 0,,,0.0,0.15 0 0 0 0 0,1294,0,The desk slides to the right.,0.5,72,1.5m
+cabinet_slide_right_01,cabinet,A storage cabinet sits on a floor.,constant_velocity,1 0 0,,,0.0,0.12 0 0 0 0 0,1295,0,The cabinet slides to the right.,0.5,72,1m
+dresser_slide_right_01,dresser,A bedroom dresser is on a floor.,constant_velocity,1 0 0,,,0.0,0.14 0 0 0 0 0,1296,0,The dresser slides to the right.,0.5,72,1m
+chest_slide_right_01,chest,A storage chest slides on a floor.,constant_velocity,1 0 0,,,0.0,0.18 0 0 0 0 0,1297,0,The chest slides to the right.,0.5,72,1.2m
+trunk_slide_right_01,trunk,An antique trunk is on a hardwood floor.,constant_velocity,1 0 0,,,0.0,0.16 0 0 0 0 0,1298,0,The trunk slides to the right.,0.5,72,1.5m
+safe_slide_right_01,safe,A wall safe is mounted and slides.,constant_velocity,1 0 0,,,0.0,0.08 0 0 0 0 0,1299,0,The safe slides to the right.,0.5,72,80cm
+refrigerator_slide_right_01,refrigerator,A refrigerator slides across a kitchen floor.,constant_velocity,1 0 0,,,0.0,0.12 0 0 0 0 0,1300,0,The refrigerator slides to the right.,0.5,72,1.8m
+oven_slide_right_01,oven,A large oven slides on a kitchen floor.,constant_velocity,1 0 0,,,0.0,0.1 0 0 0 0 0,1301,0,The oven slides to the right.,0.5,72,1.5m
+washing_machine_slide_right_01,washing_machine,A washing machine slides on a floor.,constant_velocity,1 0 0,,,0.0,0.09 0 0 0 0 0,1302,0,The washing_machine slides to the right.,0.5,72,1.5m
+dryer_slide_right_01,dryer,A clothes dryer slides on a floor.,constant_velocity,1 0 0,,,0.0,0.09 0 0 0 0 0,1303,0,The dryer slides to the right.,0.5,72,1.5m
+air_conditioner_slide_right_01,air_conditioner,An air conditioning unit sits on a floor.,constant_velocity,1 0 0,,,0.0,0.11 0 0 0 0 0,1304,0,The air_conditioner slides to the right.,0.5,72,1m
+heater_slide_left_01,heater,A space heater sits on a floor.,constant_velocity,-1 0 0,,,0.0,-0.25 0 0 0 0 0,1305,0,The heater slides to the left.,0.5,72,50cm
+fan_slide_left_01,fan,An electric fan sits on a table.,constant_velocity,-1 0 0,,,0.0,-0.3 0 0 0 0 0,1306,0,The fan slides to the left.,0.5,72,40cm
+lamp_slide_left_01,lamp,A table lamp sits on a smooth surface.,constant_velocity,-1 0 0,,,0.0,-0.28 0 0 0 0 0,1307,0,The lamp slides to the left.,0.5,72,30cm
+mirror_slide_left_01,mirror,A standing mirror slides on a floor.,constant_velocity,-1 0 0,,,0.0,-0.16 0 0 0 0 0,1308,0,The mirror slides to the left.,0.5,72,1.5m
+painting_slide_left_01,painting,A large painting rests against a wall.,constant_velocity,-1 0 0,,,0.0,-0.19 0 0 0 0 0,1309,0,The painting slides to the left.,0.5,72,1.2m
+window_frame_slide_left_01,window_frame,A window frame sits on a floor.,constant_velocity,-1 0 0,,,0.0,-0.17 0 0 0 0 0,1310,0,The window_frame slides to the left.,0.5,72,1.5m
+door_frame_slide_left_01,door_frame,A door frame is positioned on a floor.,constant_velocity,-1 0 0,,,0.0,-0.14 0 0 0 0 0,1311,0,The door_frame slides to the left.,0.5,72,2m
+gate_slide_left_01,gate,A wooden gate sits on a surface.,constant_velocity,-1 0 0,,,0.0,-0.13 0 0 0 0 0,1312,0,The gate slides to the left.,0.5,72,2m
+fence_section_slide_left_01,fence_section,A fence section rests on the ground.,constant_velocity,-1 0 0,,,0.0,-0.15 0 0 0 0 0,1313,0,The fence_section slides to the left.,0.5,72,2m
+swing_slide_left_01,swing,A playground swing slides on a floor.,constant_velocity,-1 0 0,,,0.0,-0.23 0 0 0 0 0,1314,0,The swing slides to the left.,0.5,72,1.5m
+feather_cluster_float_up_01,feather_cluster,A cluster of feathers floats in air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1315,0,The feather_cluster floats upward gently.,0.5,72,10cm
+petal_cluster_float_up_01,petal_cluster,A cluster of flower petals float in air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1316,0,The petal_cluster floats upward gently.,0.5,72,5cm
+dandelion_seed_float_up_01,dandelion_seed,A dandelion seed floats in the wind.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1317,0,The dandelion_seed floats upward gently.,0.5,72,1cm
+milkweed_seed_float_up_01,milkweed_seed,Milkweed seeds float on air currents.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1318,0,The milkweed_seed floats upward gently.,0.5,72,2cm
+thistle_seed_float_up_01,thistle_seed,Thistle seeds float in the air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1319,0,The thistle_seed floats upward gently.,0.5,72,1.5cm
+maple_seed_float_up_01,maple_seed,Maple seeds spin and float upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1320,0,The maple_seed floats upward gently.,0.5,72,3cm
+ash_seed_float_up_01,ash_seed,Ash tree seeds float upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1321,0,The ash_seed floats upward gently.,0.5,72,2cm
+birch_seed_float_up_01,birch_seed,Birch seeds float in air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1322,0,The birch_seed floats upward gently.,0.5,72,1.5cm
+pine_pollen_float_up_01,pine_pollen,Pine pollen floats in the air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1323,0,The pine_pollen floats upward gently.,0.5,72,0.5cm
+grass_seed_float_up_01,grass_seed,Grass seeds float in the air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1324,0,The grass_seed floats upward gently.,0.5,72,1cm
+hair_float_up_01,hair,A strand of hair floats in air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1325,0,The hair floats upward gently.,0.5,72,5cm
+thread_float_up_01,thread,A thread floats upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1326,0,The thread floats upward gently.,0.5,72,10cm
+cobweb_float_up_01,cobweb,A cobweb floats in air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1327,0,The cobweb floats upward gently.,0.5,72,15cm
+spider_silk_float_up_01,spider_silk,Spider silk strands float in air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1328,0,The spider_silk floats upward gently.,0.5,72,20cm
+bubble_foam_float_up_01,bubble_foam,Foam bubbles float upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1329,0,The bubble_foam floats upward gently.,0.5,72,3cm
+foam_piece_float_up_01,foam_piece,A piece of foam floats upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1330,0,The foam_piece floats upward gently.,0.5,72,5cm
+styrofoam_ball_float_up_01,styrofoam_ball,A styrofoam ball floats upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1331,0,The styrofoam_ball floats upward gently.,0.5,72,10cm
+plastic_bag_float_up_01,plastic_bag,A plastic bag floats in the breeze.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1332,0,The plastic_bag floats upward gently.,0.5,72,10cm
+tissue_paper_float_up_01,tissue_paper,A tissue paper floats upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1333,0,The tissue_paper floats upward gently.,0.5,72,5cm
+newspaper_page_float_up_01,newspaper_page,A newspaper page floats in air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1334,0,The newspaper_page floats upward gently.,0.5,72,15cm
+butterfly_float_up_01,butterfly,A butterfly flutters upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1335,0,The butterfly floats upward gently.,0.5,72,5cm
+moth_float_up_01,moth,A moth floats upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1336,0,The moth floats upward gently.,0.5,72,4cm
+bee_float_up_01,bee,A bee hovers in air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1337,0,The bee floats upward gently.,0.5,72,2cm
+wasp_float_up_01,wasp,A wasp hovers upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1338,0,The wasp floats upward gently.,0.5,72,2cm
+dragonfly_float_up_01,dragonfly,A dragonfly hovers in air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1339,0,The dragonfly floats upward gently.,0.5,72,6cm
+fairy_float_up_01,fairy,A glowing fairy figure floats upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1340,0,The fairy floats upward gently.,0.5,72,5cm
+angel_doll_float_up_01,angel_doll,An angel doll figure hovers in air.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1341,0,The angel_doll floats upward gently.,0.5,72,10cm
+feather_duster_float_up_01,feather_duster,A feather duster floats upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1342,0,The feather_duster floats upward gently.,0.5,72,20cm
+balloon_bouquet_float_up_01,balloon_bouquet,A bouquet of balloons floats upward.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1343,0,The balloon_bouquet floats upward gently.,0.5,72,30cm
+light_material_piece_float_up_01,light_material_piece,A piece of light material floats up.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1344,0,The light_material_piece floats upward gently.,0.5,72,10cm
+tape_dispenser_free_00-1,tape_dispenser,A tape dispenser rests near the edge of a desk.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1345,0,The tape dispenser falls straight down.,0.5,48,3cm
+compass_free_00-1,compass,A drawing compass rests near the edge of a drafting table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1346,0,The compass falls straight down.,0.5,48,2cm
+cable_free_00-1,cable,A charging cable sits near the edge of a desk in a study.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1347,0,The cable falls straight down.,0.5,48,2cm
+phone_free_00-1,phone,A mobile phone sits near the edge of a table in a modern room.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1348,0,The phone falls straight down.,0.5,48,2cm
+bracelet_free_00-1,bracelet,A bracelet rests near the edge of a jewelry display stand.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1349,0,The bracelet falls straight down.,0.5,48,2cm
+rice_grain_free_00-1,rice_grain,A grain of rice rests near the edge of a kitchen counter.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1350,0,The rice grain falls straight down.,0.5,48,0.3cm
+wallet_free_00-1,wallet,A leather wallet sits near the edge of a dresser in a bedroom.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1351,0,The wallet falls straight down.,0.5,48,4cm
+rug_free_00-1,rug,A small rug sits near the edge of a table in a living room.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1352,0,The rug falls straight down.,0.5,48,10cm
+hole_puncher_free_00-1,hole_puncher,A hole puncher rests near the edge of a desk.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1353,0,The hole puncher falls straight down.,0.5,48,3cm
+candle_holder_free_00-1,candle_holder,A candle holder sits near the edge of a dining table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1354,0,The candle holder falls straight down.,0.5,48,5cm
+chocolate_bar_free_00-1,chocolate_bar,A chocolate bar rests near the edge of a kitchen counter.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1355,0,The chocolate bar falls straight down.,0.5,48,3cm
+butter_dish_free_00-1,butter_dish,A butter dish rests near the edge of a dining table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1356,0,The butter dish falls straight down.,0.5,48,3cm
+purse_free_00-1,purse,A handbag rests near the edge of a counter in a simple hallway scene.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1357,0,The purse falls straight down.,0.5,48,8cm
+backpack_free_00-1,backpack,A backpack sits near the edge of a chair in a simple classroom.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1358,0,The backpack falls straight down.,0.5,48,15cm
+protractor_free_00-1,protractor,A protractor sits near the edge of a desk in a math classroom.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1359,0,The protractor falls straight down.,0.5,48,3cm
+rolling_pin_free_00-1,rolling_pin,A rolling pin rests near the edge of a kitchen counter.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1360,0,The rolling pin falls straight down.,0.5,48,5cm
+sandal_free_00-1,sandal,A sandal rests on a floor near a doorway in a clean indoor scene.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1361,0,The sandal falls straight down.,0.5,48,8cm
+toothpick_holder_free_00-1,toothpick_holder,A toothpick holder sits near the edge of a dining table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1362,0,The toothpick holder falls straight down.,0.5,48,2cm
+tripod_free_00-1,tripod,A small tripod sits near the edge of a table in a studio.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1363,0,The tripod falls straight down.,0.5,48,6cm
+vinegar_bottle_free_00-1,vinegar_bottle,A vinegar bottle sits near the edge of a kitchen shelf.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1364,0,The vinegar bottle falls straight down.,0.5,48,4cm
+speaker_free_00-1,speaker,A small speaker sits near the edge of a shelf in a living room.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1365,0,The speaker falls straight down.,0.5,48,4cm
+keyboard_free_00-1,keyboard,A keyboard rests near the edge of a desk in a simple office.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1366,0,The keyboard falls straight down.,0.5,48,10cm
+charger_free_00-1,charger,A phone charger rests near the edge of a nightstand in a bedroom.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1367,0,The charger falls straight down.,0.5,48,3cm
+glue_free_00-1,glue,A glue stick sits near the edge of a craft table in a classroom.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1368,0,The glue falls straight down.,0.5,48,2cm
+headphones_free_00-1,headphones,Headphones rest near the edge of a desk in a music studio.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1369,0,The headphones falls straight down.,0.5,48,5cm
+crayon_free_00-1,crayon,A crayon sits near the edge of a table in a children playroom.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1370,0,The crayon falls straight down.,0.5,48,1.5cm
+notepad_free_00-1,notepad,A notepad sits near the edge of a desk.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1371,0,The notepad falls straight down.,0.5,48,5cm
+grater_free_00-1,grater,A grater rests near the edge of a kitchen counter in a simple scene.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1372,0,The grater falls straight down.,0.5,48,3cm
+hat_free_00-1,hat,A baseball cap sits near the edge of a shelf in a simple closet scene.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1373,0,The hat falls straight down.,0.5,48,5cm
+toothpaste_free_00-1,toothpaste,A toothpaste tube rests near the edge of a bathroom sink in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1374,0,The toothpaste falls straight down.,0.5,48,3cm
+shoe_free_00-1,shoe,A single shoe sits on a shoe rack near the edge with a simple background.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1375,0,The shoe falls straight down.,0.5,48,10cm
+cutting_board_free_00-1,cutting_board,A cutting board sits near the edge of a kitchen counter.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1376,0,The cutting board falls straight down.,0.5,48,6cm
+flashlight_free_00-1,flashlight,A flashlight rests near the edge of a shelf in a utility room.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1377,0,The flashlight falls straight down.,0.5,48,4cm
+file_box_free_00-1,file_box,A file box rests near the edge of a shelf in an office.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1378,0,The file box falls straight down.,0.5,48,8cm
+jumping_rope_free_00-1,jumping_rope,A jumping rope rests near the edge of a shelf.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1379,0,The jumping rope falls straight down.,0.5,48,3cm
+strainer_free_00-1,strainer,A small strainer rests near the edge of a kitchen shelf.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1380,0,The strainer falls straight down.,0.5,48,4cm
+oil_bottle_free_00-1,oil_bottle,An oil bottle rests near the edge of a kitchen counter.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1381,0,The oil bottle falls straight down.,0.5,48,4cm
+lamp_shade_free_00-1,lamp_shade,A lamp shade sits near the edge of a table in a simple living room.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1382,0,The lamp shade falls straight down.,0.5,48,8cm
+paperclip_free_00-1,paperclip,A paperclip rests near the edge of a desk.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1383,0,The paperclip falls straight down.,0.5,48,0.3cm
+thermos_free_00-1,thermos,A thermos sits near the edge of a kitchen counter in realistic style.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1384,0,The thermos falls straight down.,0.5,48,6cm
+action_figure_free_00-1,action_figure,An action figure sits near the edge of a shelf.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1385,0,The action figure falls straight down.,0.5,48,4cm
+popcorn_free_00-1,popcorn,A popcorn kernel sits near the edge of a bowl on a table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1386,0,The popcorn falls straight down.,0.5,48,0.5cm
+cactus_free_00-1,cactus,A small cactus sits near the edge of a desk in a simple office.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1387,0,The cactus falls straight down.,0.5,48,4cm
+ice_tray_free_00-1,ice_tray,An ice tray rests near the edge of a freezer shelf.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1388,0,The ice tray falls straight down.,0.5,48,4cm
+stapler_remover_free_00-1,stapler_remover,A staple remover sits near the edge of a desk.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1389,0,The stapler remover falls straight down.,0.5,48,1cm
+rubber_band_free_00-1,rubber_band,A rubber band rests near the edge of a desk.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1390,0,The rubber band falls straight down.,0.5,48,0.5cm
+pillow_free_00-1,pillow,A pillow rests near the edge of a bed in a simple bedroom scene.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1391,0,The pillow falls straight down.,0.5,48,20cm
+spatula_free_00-1,spatula,A spatula rests near the edge of a kitchen counter.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1392,0,The spatula falls straight down.,0.5,48,3cm
+puzzle_piece_free_00-1,puzzle_piece,A puzzle piece sits near the edge of a table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1393,0,The puzzle piece falls straight down.,0.5,48,1cm
+cookie_free_00-1,cookie,A cookie sits near the edge of a plate on a kitchen table.,free_fall,0 0 -1,,,-9.8,0 0 0 0 0 0,1394,0,The cookie falls straight down.,0.5,48,2cm
+palette_cons_100,palette,A paint palette rests near the edge of a table in an art studio.,constant_velocity,1 0 0,,,0.0,0.26 0 0 0 0 0,1395,0,The palette slides to the right.,0.5,72,4cm
+cushion_cons_100,cushion,A small cushion sits near the edge of a sofa in a living room.,constant_velocity,1 0 0,,,0.0,0.38 0 0 0 0 0,1396,0,The cushion slides to the right.,0.5,72,15cm
+ruler_metal_cons_100,ruler_metal,A metal ruler rests near the edge of a drafting table.,constant_velocity,1 0 0,,,0.0,0.22 0 0 0 0 0,1397,0,The ruler metal slides to the right.,0.5,72,5cm
+remote_cons_100,remote,A TV remote rests near the edge of a coffee table.,constant_velocity,1 0 0,,,0.0,0.22 0 0 0 0 0,1398,0,The remote slides to the right.,0.5,72,3cm
+lens_cons_100,lens,A camera lens rests near the edge of a shelf in a photography studio.,constant_velocity,1 0 0,,,0.0,0.42 0 0 0 0 0,1399,0,The lens slides to the right.,0.5,72,5cm
+paper_clipper_cons_100,paper_clipper,A paper clipper sits near the edge of a desk.,constant_velocity,1 0 0,,,0.0,0.34 0 0 0 0 0,1400,0,The paper clipper slides to the right.,0.5,72,1cm
+tissue_box_cons_100,tissue_box,A tissue box rests on a table edge in a simple indoor scene.,constant_velocity,1 0 0,,,0.0,0.46 0 0 0 0 0,1401,0,The tissue box slides to the right.,0.5,72,5cm
+sticky_notes_cons_100,sticky_notes,A sticky notes pad rests near the edge of a desk.,constant_velocity,1 0 0,,,0.0,0.22 0 0 0 0 0,1402,0,The sticky notes slides to the right.,0.5,72,2cm
+baking_tray_cons_100,baking_tray,A baking tray rests near the edge of a kitchen shelf.,constant_velocity,1 0 0,,,0.0,0.46 0 0 0 0 0,1403,0,The baking tray slides to the right.,0.5,72,6cm
+muffin_tin_cons_100,muffin_tin,A muffin tin sits near the edge of a kitchen counter.,constant_velocity,1 0 0,,,0.0,0.38 0 0 0 0 0,1404,0,The muffin tin slides to the right.,0.5,72,5cm
+bean_cons_100,bean,A single bean sits near the edge of a kitchen counter.,constant_velocity,1 0 0,,,0.0,0.46 0 0 0 0 0,1405,0,The bean slides to the right.,0.5,72,0.5cm
+watch_cons_100,watch,A wristwatch rests near the edge of a nightstand in a simple bedroom.,constant_velocity,1 0 0,,,0.0,0.26 0 0 0 0 0,1406,0,The watch slides to the right.,0.5,72,2cm
+coaster_cons_100,coaster,A coaster rests near the edge of a coffee table.,constant_velocity,1 0 0,,,0.0,0.26 0 0 0 0 0,1407,0,The coaster slides to the right.,0.5,72,1cm
+soap_dish_cons_100,soap_dish,A soap dish rests near the edge of a bathroom counter in realistic lighting.,constant_velocity,1 0 0,,,0.0,0.42 0 0 0 0 0,1408,0,The soap dish slides to the right.,0.5,72,4cm
+milk_carton_cons_100,milk_carton,A milk carton sits near the edge of a kitchen shelf.,constant_velocity,1 0 0,,,0.0,0.34 0 0 0 0 0,1409,0,The milk carton slides to the right.,0.5,72,5cm
+technical_pen_cons_100,technical_pen,A technical pen sits near the edge of a drafting table.,constant_velocity,1 0 0,,,0.0,0.38 0 0 0 0 0,1410,0,The technical pen slides to the right.,0.5,72,2cm
+magazine_cons_100,magazine,A magazine rests near the edge of a coffee table in a living room.,constant_velocity,1 0 0,,,0.0,0.26 0 0 0 0 0,1411,0,The magazine slides to the right.,0.5,72,8cm
+flower_cons_100,flower,A single flower rests near the edge of a table in a clean room.,constant_velocity,1 0 0,,,0.0,0.30 0 0 0 0 0,1412,0,The flower slides to the right.,0.5,72,5cm
+lentil_cons_100,lentil,A lentil sits near the edge of a kitchen counter.,constant_velocity,1 0 0,,,0.0,0.38 0 0 0 0 0,1413,0,The lentil slides to the right.,0.5,72,0.3cm
+oat_cons_100,oat,An oat grain rests near the edge of a kitchen counter.,constant_velocity,1 0 0,,,0.0,0.46 0 0 0 0 0,1414,0,The oat slides to the right.,0.5,72,0.3cm
+ring_cons_100,ring,A silver ring sits near the edge of a jewelry box shelf.,constant_velocity,1 0 0,,,0.0,0.38 0 0 0 0 0,1415,0,The ring slides to the right.,0.5,72,1cm
+wine_glass_cons_100,wine_glass,A wine glass rests near the edge of a shelf in a bar area.,constant_velocity,1 0 0,,,0.0,0.34 0 0 0 0 0,1416,0,The wine glass slides to the right.,0.5,72,5cm
+coffee_bean_cons_100,coffee_bean,A coffee bean sits near the edge of a kitchen counter.,constant_velocity,1 0 0,,,0.0,0.26 0 0 0 0 0,1417,0,The coffee bean slides to the right.,0.5,72,0.5cm
+calendar_cons_100,calendar,A desk calendar sits near the edge of a desk.,constant_velocity,1 0 0,,,0.0,0.38 0 0 0 0 0,1418,0,The calendar slides to the right.,0.5,72,4cm
+scarf_cons_100,scarf,A scarf is draped near the edge of a coat rack shelf in realistic style.,constant_velocity,1 0 0,,,0.0,0.46 0 0 0 0 0,1419,0,The scarf slides to the right.,0.5,72,5cm
+toothbrush_cons_100,toothbrush,A toothbrush is placed near the edge of a counter in a simple bathroom scene.,constant_velocity,1 0 0,,,0.0,0.42 0 0 0 0 0,1420,0,The toothbrush slides to the right.,0.5,72,2cm
+hanger_cons_100,hanger,A wire hanger rests on a closet shelf near the edge in realistic style.,constant_velocity,1 0 0,,,0.0,0.42 0 0 0 0 0,1421,0,The hanger slides to the right.,0.5,72,3cm
+letter_opener_cons_100,letter_opener,A letter opener sits near the edge of a desk.,constant_velocity,1 0 0,,,0.0,0.26 0 0 0 0 0,1422,0,The letter opener slides to the right.,0.5,72,3cm
+marble_cons_100,marble,A glass marble rests near the edge of a table.,constant_velocity,1 0 0,,,0.0,0.42 0 0 0 0 0,1423,0,The marble slides to the right.,0.5,72,1cm
+juicer_cons_100,juicer,A small juicer sits near the edge of a kitchen counter.,constant_velocity,1 0 0,,,0.0,0.30 0 0 0 0 0,1424,0,The juicer slides to the right.,0.5,72,5cm
+cheese_wedge_cons_100,cheese_wedge,A cheese wedge sits near the edge of a cutting board.,constant_velocity,1 0 0,,,0.0,0.34 0 0 0 0 0,1425,0,The cheese wedge slides to the right.,0.5,72,3cm
+trash_bin_cons_100,trash_bin,A small trash bin sits on a floor near a desk in a clean room.,constant_velocity,1 0 0,,,0.0,0.42 0 0 0 0 0,1426,0,The trash bin slides to the right.,0.5,72,12cm
+mousepad_cons_100,mousepad,A mousepad sits near the edge of a desk in a computer room.,constant_velocity,1 0 0,,,0.0,0.42 0 0 0 0 0,1427,0,The mousepad slides to the right.,0.5,72,4cm
+envelope_cons_100,envelope,An envelope rests near the edge of a desk in a simple office.,constant_velocity,1 0 0,,,0.0,0.30 0 0 0 0 0,1428,0,The envelope slides to the right.,0.5,72,3cm
+triangle_ruler_cons_100,triangle_ruler,A triangle ruler sits near the edge of a drafting table.,constant_velocity,1 0 0,,,0.0,0.34 0 0 0 0 0,1429,0,The triangle ruler slides to the right.,0.5,72,4cm
+battery_aa_cons_100,battery_aa,An AA battery rests near the edge of a shelf in a storage room.,constant_velocity,1 0 0,,,0.0,0.38 0 0 0 0 0,1430,0,The battery aa slides to the right.,0.5,72,1.5cm
+pushpin_cons_100,pushpin,A pushpin sits near the edge of a desk.,constant_velocity,1 0 0,,,0.0,0.34 0 0 0 0 0,1431,0,The pushpin slides to the right.,0.5,72,0.3cm
+toy_train_cons_100,toy_train,A toy train carriage sits near the edge of a table.,constant_velocity,1 0 0,,,0.0,0.22 0 0 0 0 0,1432,0,The toy train slides to the right.,0.5,72,4cm
+cracker_cons_100,cracker,A cracker rests near the edge of a snack plate on a table.,constant_velocity,1 0 0,,,0.0,0.26 0 0 0 0 0,1433,0,The cracker slides to the right.,0.5,72,2cm
+plant_pot_cons_100,plant_pot,A small plant pot sits near the edge of a windowsill in realistic style.,constant_velocity,1 0 0,,,0.0,0.26 0 0 0 0 0,1434,0,The plant pot slides to the right.,0.5,72,6cm
+whisk_cons_-100,whisk,A whisk sits near the edge of a kitchen counter in a simple scene.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1435,0,The whisk slides to the left.,0.5,72,3cm
+sugar_cube_cons_-100,sugar_cube,A sugar cube sits near the edge of a kitchen counter.,constant_velocity,-1 0 0,,,0.0,-0.30 0 0 0 0 0,1436,0,The sugar cube slides to the left.,0.5,72,1cm
+toilet_roll_cons_-100,toilet_roll,A toilet paper roll sits on a bathroom shelf near the edge.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1437,0,The toilet roll slides to the left.,0.5,72,4cm
+paintbrush_cons_-100,paintbrush,A paintbrush sits near the edge of an easel in a studio.,constant_velocity,-1 0 0,,,0.0,-0.38 0 0 0 0 0,1438,0,The paintbrush slides to the left.,0.5,72,3cm
+toy_boat_cons_-100,toy_boat,A toy boat rests near the edge of a shelf in a child room.,constant_velocity,-1 0 0,,,0.0,-0.38 0 0 0 0 0,1439,0,The toy boat slides to the left.,0.5,72,5cm
+printer_cons_-100,printer,A small printer rests near the edge of a shelf in a home office.,constant_velocity,-1 0 0,,,0.0,-0.26 0 0 0 0 0,1440,0,The printer slides to the left.,0.5,72,10cm
+toy_plane_cons_-100,toy_plane,A toy airplane sits near the edge of a desk in a bedroom.,constant_velocity,-1 0 0,,,0.0,-0.38 0 0 0 0 0,1441,0,The toy plane slides to the left.,0.5,72,6cm
+pitcher_cons_-100,pitcher,A pitcher sits near the edge of a dining table in realistic style.,constant_velocity,-1 0 0,,,0.0,-0.26 0 0 0 0 0,1442,0,The pitcher slides to the left.,0.5,72,8cm
+scanner_cons_-100,scanner,A scanner sits near the edge of a desk in an office.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1443,0,The scanner slides to the left.,0.5,72,8cm
+mouse_cons_-100,mouse,A computer mouse sits near the edge of a desk in an office.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1444,0,The mouse slides to the left.,0.5,72,2cm
+ice_cube_cons_-100,ice_cube,An ice cube sits near the edge of a kitchen counter.,constant_velocity,-1 0 0,,,0.0,-0.42 0 0 0 0 0,1445,0,The ice cube slides to the left.,0.5,72,2cm
+canvas_cons_-100,canvas,A small canvas rests near the edge of a shelf in an art room.,constant_velocity,-1 0 0,,,0.0,-0.42 0 0 0 0 0,1446,0,The canvas slides to the left.,0.5,72,6cm
+playing_card_cons_-100,playing_card,A playing card sits near the edge of a table.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1447,0,The playing card slides to the left.,0.5,72,2cm
+laptop_cons_-100,laptop,A laptop sits near the edge of a desk in a home office.,constant_velocity,-1 0 0,,,0.0,-0.26 0 0 0 0 0,1448,0,The laptop slides to the left.,0.5,72,8cm
+bingo_ball_cons_-100,bingo_ball,A bingo ball rests near the edge of a table.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1449,0,The bingo ball slides to the left.,0.5,72,1cm
+lighter_cons_-100,lighter,A lighter sits near the edge of a coffee table in a living room.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1450,0,The lighter slides to the left.,0.5,72,2cm
+t_square_cons_-100,t_square,A T-square rests near the edge of a drafting table.,constant_velocity,-1 0 0,,,0.0,-0.46 0 0 0 0 0,1451,0,The t square slides to the left.,0.5,72,6cm
+microphone_cons_-100,microphone,A microphone sits near the edge of a desk in a recording studio.,constant_velocity,-1 0 0,,,0.0,-0.30 0 0 0 0 0,1452,0,The microphone slides to the left.,0.5,72,3cm
+coffee_mug_cons_-100,coffee_mug,A coffee mug sits near the edge of a kitchen counter.,constant_velocity,-1 0 0,,,0.0,-0.22 0 0 0 0 0,1453,0,The coffee mug slides to the left.,0.5,72,4cm
+marker_cons_-100,marker,A marker rests near the edge of a whiteboard tray in a classroom.,constant_velocity,-1 0 0,,,0.0,-0.38 0 0 0 0 0,1454,0,The marker slides to the left.,0.5,72,2cm
+stamp_cons_-100,stamp,A postage stamp sits near the edge of a table in a craft room.,constant_velocity,-1 0 0,,,0.0,-0.26 0 0 0 0 0,1455,0,The stamp slides to the left.,0.5,72,0.5cm
+dice_pair_cons_-100,dice_pair,A pair of dice sits near the edge of a gaming table.,constant_velocity,-1 0 0,,,0.0,-0.30 0 0 0 0 0,1456,0,The dice pair slides to the left.,0.5,72,2cm
+domino_cons_-100,domino,A domino tile rests near the edge of a table.,constant_velocity,-1 0 0,,,0.0,-0.42 0 0 0 0 0,1457,0,The domino slides to the left.,0.5,72,2cm
+salt_shaker_cons_-100,salt_shaker,A salt shaker rests near the edge of a dining table.,constant_velocity,-1 0 0,,,0.0,-0.34 0 0 0 0 0,1458,0,The salt shaker slides to the left.,0.5,72,2cm
+document_holder_cons_-100,document_holder,A document holder rests near the edge of a desk.,constant_velocity,-1 0 0,,,0.0,-0.26 0 0 0 0 0,1459,0,The document holder slides to the left.,0.5,72,6cm
+pea_cons_-100,pea,A pea rests near the edge of a kitchen counter.,constant_velocity,-1 0 0,,,0.0,-0.38 0 0 0 0 0,1460,0,The pea slides to the left.,0.5,72,0.5cm
+lightbulb_cons_-100,lightbulb,A lightbulb sits near the edge of a workbench in a garage.,constant_velocity,-1 0 0,,,0.0,-0.26 0 0 0 0 0,1461,0,The lightbulb slides to the left.,0.5,72,3cm
+rock_salt_cons_-100,rock_salt,A rock salt crystal rests near the edge of a kitchen counter.,constant_velocity,-1 0 0,,,0.0,-0.42 0 0 0 0 0,1462,0,The rock salt slides to the left.,0.5,72,1cm
+vase_cons_-100,vase,A glass vase rests near the edge of a table in a simple dining room.,constant_velocity,-1 0 0,,,0.0,-0.38 0 0 0 0 0,1463,0,The vase slides to the left.,0.5,72,8cm
+dvd_case_cons_-100,dvd_case,A DVD case sits near the edge of a shelf in a living room.,constant_velocity,-1 0 0,,,0.0,-0.38 0 0 0 0 0,1464,0,The dvd case slides to the left.,0.5,72,3cm
+boot_cons_-100,boot,A leather boot sits near the edge of a wooden shelf in a mudroom.,constant_velocity,-1 0 0,,,0.0,-0.34 0 0 0 0 0,1465,0,The boot slides to the left.,0.5,72,12cm
+pepper_grinder_cons_-100,pepper_grinder,A pepper grinder sits near the edge of a dining table setting.,constant_velocity,-1 0 0,,,0.0,-0.26 0 0 0 0 0,1466,0,The pepper grinder slides to the left.,0.5,72,3cm
+chickpea_cons_-100,chickpea,A chickpea rests near the edge of a kitchen counter.,constant_velocity,-1 0 0,,,0.0,-0.46 0 0 0 0 0,1467,0,The chickpea slides to the left.,0.5,72,0.5cm
+pencil_sharpener_cons_-100,pencil_sharpener,A pencil sharpener sits near the edge of a desk.,constant_velocity,-1 0 0,,,0.0,-0.34 0 0 0 0 0,1468,0,The pencil sharpener slides to the left.,0.5,72,2cm
+blanket_cons_-100,blanket,A folded blanket sits near the edge of a shelf in a linen closet.,constant_velocity,-1 0 0,,,0.0,-0.46 0 0 0 0 0,1469,0,The blanket slides to the left.,0.5,72,5cm
+conditioner_cons_001,conditioner,A conditioner bottle is positioned at the edge of a bathtub shelf.,constant_velocity,0 0 1,,,0.0,0 0 0.30 0 0 0,1470,0,The conditioner moves forward.,0.5,72,6cm
+newspaper_cons_001,newspaper,A newspaper sits near the edge of a reading table in a library.,constant_velocity,0 0 1,,,0.0,0 0 0.20 0 0 0,1471,0,The newspaper moves forward.,0.5,72,10cm
+glasses_cons_001,glasses,A pair of glasses rests near the edge of a desk in a clean study.,constant_velocity,0 0 1,,,0.0,0 0 0.15 0 0 0,1472,0,The glasses moves forward.,0.5,72,3cm
+shampoo_cons_001,shampoo,A shampoo bottle sits near the edge of a shower shelf with a simple background.,constant_velocity,0 0 1,,,0.0,0 0 0.15 0 0 0,1473,0,The shampoo moves forward.,0.5,72,6cm
+calculator_cons_001,calculator,A calculator rests near the edge of a desk in a study room.,constant_velocity,0 0 1,,,0.0,0 0 0.40 0 0 0,1474,0,The calculator moves forward.,0.5,72,3cm
+earring_cons_001,earring,An earring sits near the edge of a vanity table in a simple room.,constant_velocity,0 0 1,,,0.0,0 0 0.30 0 0 0,1475,0,The earring moves forward.,0.5,72,1cm
+monitor_cons_001,monitor,A computer monitor sits near the edge of a desk in an office.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1476,0,The monitor moves forward.,0.5,72,12cm
+ladle_cons_001,ladle,A ladle sits near the edge of a kitchen shelf in a simple scene.,constant_velocity,0 0 1,,,0.0,0 0 0.30 0 0 0,1477,0,The ladle moves forward.,0.5,72,3cm
+candy_cons_001,candy,A piece of candy sits near the edge of a table.,constant_velocity,0 0 1,,,0.0,0 0 0.30 0 0 0,1478,0,The candy moves forward.,0.5,72,1cm
+napkin_ring_cons_001,napkin_ring,A napkin ring rests near the edge of a dining table setting.,constant_velocity,0 0 1,,,0.0,0 0 0.30 0 0 0,1479,0,The napkin ring moves forward.,0.5,72,1cm
+clock_cons_001,clock,A small alarm clock rests near the edge of a nightstand.,constant_velocity,0 0 1,,,0.0,0 0 0.45 0 0 0,1480,0,The clock moves forward.,0.5,72,5cm
+poker_chip_cons_001,poker_chip,A poker chip rests near the edge of a poker table.,constant_velocity,0 0 1,,,0.0,0 0 0.40 0 0 0,1481,0,The poker chip moves forward.,0.5,72,1.5cm
+bookend_cons_001,bookend,A bookend sits near the edge of a bookshelf in a study room.,constant_velocity,0 0 1,,,0.0,0 0 0.15 0 0 0,1482,0,The bookend moves forward.,0.5,72,5cm
+honey_jar_cons_001,honey_jar,A honey jar rests near the edge of a kitchen counter.,constant_velocity,0 0 1,,,0.0,0 0 0.40 0 0 0,1483,0,The honey jar moves forward.,0.5,72,4cm
+memory_card_cons_001,memory_card,A memory card sits near the edge of a table in a tech lab.,constant_velocity,0 0 1,,,0.0,0 0 0.40 0 0 0,1484,0,The memory card moves forward.,0.5,72,0.5cm
+mixing_bowl_cons_001,mixing_bowl,A mixing bowl sits near the edge of a kitchen counter.,constant_velocity,0 0 1,,,0.0,0 0 0.40 0 0 0,1485,0,The mixing bowl moves forward.,0.5,72,8cm
+chalk_cons_001,chalk,A piece of chalk rests near the edge of a chalkboard tray.,constant_velocity,0 0 1,,,0.0,0 0 0.15 0 0 0,1486,0,The chalk moves forward.,0.5,72,1cm
+necklace_cons_001,necklace,A necklace is placed near the edge of a dresser in realistic lighting.,constant_velocity,0 0 1,,,0.0,0 0 0.15 0 0 0,1487,0,The necklace moves forward.,0.5,72,2cm
+toy_soldier_cons_001,toy_soldier,A toy soldier rests near the edge of a shelf.,constant_velocity,0 0 1,,,0.0,0 0 0.30 0 0 0,1488,0,The toy soldier moves forward.,0.5,72,3cm
+usb_drive_cons_001,usb_drive,A USB drive rests near the edge of a desk in an office.,constant_velocity,0 0 1,,,0.0,0 0 0.40 0 0 0,1489,0,The usb drive moves forward.,0.5,72,1cm
+matchbox_cons_001,matchbox,A matchbox rests near the edge of a shelf in a kitchen.,constant_velocity,0 0 1,,,0.0,0 0 0.25 0 0 0,1490,0,The matchbox moves forward.,0.5,72,2cm
+toy_robot_cons_001,toy_robot,A toy robot rests near the edge of a table in a playroom.,constant_velocity,0 0 1,,,0.0,0 0 0.45 0 0 0,1491,0,The toy robot moves forward.,0.5,72,6cm
+cookie_cutter_cons_001,cookie_cutter,A cookie cutter rests near the edge of a kitchen drawer.,constant_velocity,0 0 1,,,0.0,0 0 0.45 0 0 0,1492,0,The cookie cutter moves forward.,0.5,72,2cm
+tea_bag_cons_001,tea_bag,A tea bag rests near the edge of a kitchen counter.,constant_velocity,0 0 1,,,0.0,0 0 0.15 0 0 0,1493,0,The tea bag moves forward.,0.5,72,2cm
+measuring_cup_cons_001,measuring_cup,A measuring cup rests near the edge of a kitchen shelf.,constant_velocity,0 0 1,,,0.0,0 0 0.20 0 0 0,1494,0,The measuring cup moves forward.,0.5,72,4cm
+tray_cons_001,tray,A serving tray rests near the edge of a kitchen counter.,constant_velocity,0 0 1,,,0.0,0 0 0.20 0 0 0,1495,0,The tray moves forward.,0.5,72,6cm
+corn_kernel_cons_00-1,corn_kernel,A corn kernel sits near the edge of a kitchen counter.,constant_velocity,0 0 -1,,,0.0,0 0 -0.20 0 0 0,1496,0,The corn kernel moves backward.,0.5,72,0.5cm
+ashtray_cons_00-1,ashtray,An ashtray rests near the edge of a table on a balcony.,constant_velocity,0 0 -1,,,0.0,0 0 -0.35 0 0 0,1497,0,The ashtray moves backward.,0.5,72,3cm
+jam_jar_cons_00-1,jam_jar,A jam jar sits near the edge of a kitchen table in a simple scene.,constant_velocity,0 0 -1,,,0.0,0 0 -0.30 0 0 0,1498,0,The jam jar moves backward.,0.5,72,3cm
+tablecloth_cons_00-1,tablecloth,A tablecloth sits near the edge of a dining table in a clean room.,constant_velocity,0 0 -1,,,0.0,0 0 -0.20 0 0 0,1499,0,The tablecloth moves backward.,0.5,72,8cm
+placemat_cons_00-1,placemat,A placemat sits near the edge of a dining table.,constant_velocity,0 0 -1,,,0.0,0 0 -0.30 0 0 0,1500,0,The placemat moves backward.,0.5,72,5cm
+frame_cons_00-1,frame,A picture frame rests near the edge of a shelf in a hallway.,constant_velocity,0 0 -1,,,0.0,0 0 -0.20 0 0 0,1501,0,The frame moves backward.,0.5,72,6cm
+peeler_cons_00-1,peeler,A vegetable peeler sits near the edge of a kitchen counter.,constant_velocity,0 0 -1,,,0.0,0 0 -0.25 0 0 0,1502,0,The peeler moves backward.,0.5,72,2cm
+umbrella_cons_00-1,umbrella,A folded umbrella rests near the edge of a stand in a hallway.,constant_velocity,0 0 -1,,,0.0,0 0 -0.30 0 0 0,1503,0,The umbrella moves backward.,0.5,72,10cm
+egg_cup_cons_00-1,egg_cup,An egg cup sits near the edge of a breakfast table.,constant_velocity,0 0 -1,,,0.0,0 0 -0.20 0 0 0,1504,0,The egg cup moves backward.,0.5,72,2cm
+sponge_cons_00-1,sponge,A sponge sits at the edge of a kitchen sink counter with a clean tile background.,constant_velocity,0 0 -1,,,0.0,0 0 -0.45 0 0 0,1505,0,The sponge moves backward.,0.5,72,8cm
+webcam_cons_00-1,webcam,A webcam rests near the edge of a desk in a home office.,constant_velocity,0 0 -1,,,0.0,0 0 -0.15 0 0 0,1506,0,The webcam moves backward.,0.5,72,3cm
+tea_infuser_cons_00-1,tea_infuser,A tea infuser rests near the edge of a kitchen shelf.,constant_velocity,0 0 -1,,,0.0,0 0 -0.30 0 0 0,1507,0,The tea infuser moves backward.,0.5,72,2cm
+rubber_ball_cons_00-1,rubber_ball,A rubber ball sits near the edge of a shelf.,constant_velocity,0 0 -1,,,0.0,0 0 -0.45 0 0 0,1508,0,The rubber ball moves backward.,0.5,72,3cm
+glove_cons_00-1,glove,A single glove rests near the edge of a table in a simple indoor setting.,constant_velocity,0 0 -1,,,0.0,0 0 -0.45 0 0 0,1509,0,The glove moves backward.,0.5,72,4cm
+folder_cons_00-1,folder,A folder sits near the edge of a desk.,constant_velocity,0 0 -1,,,0.0,0 0 -0.45 0 0 0,1510,0,The folder moves backward.,0.5,72,5cm
+cereal_box_cons_00-1,cereal_box,A cereal box rests near the edge of a kitchen counter.,constant_velocity,0 0 -1,,,0.0,0 0 -0.35 0 0 0,1511,0,The cereal box moves backward.,0.5,72,6cm
+binder_cons_00-1,binder,A binder rests near the edge of a shelf in a study.,constant_velocity,0 0 -1,,,0.0,0 0 -0.15 0 0 0,1512,0,The binder moves backward.,0.5,72,6cm
+binder_clip_cons_00-1,binder_clip,A binder clip sits near the edge of a desk.,constant_velocity,0 0 -1,,,0.0,0 0 -0.15 0 0 0,1513,0,The binder clip moves backward.,0.5,72,1cm
+pencil_case_cons_00-1,pencil_case,A pencil case rests near the edge of a desk.,constant_velocity,0 0 -1,,,0.0,0 0 -0.40 0 0 0,1514,0,The pencil case moves backward.,0.5,72,4cm
+tablet_cons_00-1,tablet,A tablet rests near the edge of a coffee table in a living room.,constant_velocity,0 0 -1,,,0.0,0 0 -0.35 0 0 0,1515,0,The tablet moves backward.,0.5,72,5cm
+cd_cons_00-1,cd,A CD rests near the edge of a shelf in a media room.,constant_velocity,0 0 -1,,,0.0,0 0 -0.45 0 0 0,1516,0,The cd moves backward.,0.5,72,2cm
+slipper_cons_00-1,slipper,A slipper rests on a bathroom floor near the edge of a mat.,constant_velocity,0 0 -1,,,0.0,0 0 -0.15 0 0 0,1517,0,The slipper moves backward.,0.5,72,6cm
+checker_cons_00-1,checker,A checker piece sits near the edge of a game board.,constant_velocity,0 0 -1,,,0.0,0 0 -0.15 0 0 0,1518,0,The checker moves backward.,0.5,72,1cm
+colander_cons_00-1,colander,A metal colander sits near the edge of a kitchen counter.,constant_velocity,0 0 -1,,,0.0,0 0 -0.45 0 0 0,1519,0,The colander moves backward.,0.5,72,6cm
+game_controller_cons_00-1,game_controller,A game controller sits near the edge of a table in a game room.,constant_velocity,0 0 -1,,,0.0,0 0 -0.45 0 0 0,1520,0,The game controller moves backward.,0.5,72,4cm
+gum_cons_00-1,gum,A pack of gum rests near the edge of a convenience store counter.,constant_velocity,0 0 -1,,,0.0,0 0 -0.20 0 0 0,1521,0,The gum moves backward.,0.5,72,1cm
+ink_bottle_cons_00-1,ink_bottle,An ink bottle rests near the edge of a desk.,constant_velocity,0 0 -1,,,0.0,0 0 -0.20 0 0 0,1522,0,The ink bottle moves backward.,0.5,72,3cm
+beanbag_cons_00-1,beanbag,A beanbag rests near the edge of a table.,constant_velocity,0 0 -1,,,0.0,0 0 -0.30 0 0 0,1523,0,The beanbag moves backward.,0.5,72,4cm
+chess_piece_cons_00-1,chess_piece,A chess piece rests near the edge of a chessboard.,constant_velocity,0 0 -1,,,0.0,0 0 -0.30 0 0 0,1524,0,The chess piece moves backward.,0.5,72,3cm
+toy_dinosaur_cons_00-1,toy_dinosaur,A toy dinosaur sits near the edge of a shelf in a child room.,constant_velocity,0 0 -1,,,0.0,0 0 -0.30 0 0 0,1525,0,The toy dinosaur moves backward.,0.5,72,5cm
