@@ -1,4 +1,4 @@
 /checkpoints
 /ckpts
 /wan_models
-*/__pycache__/
+*/__pycache__/*.pth
